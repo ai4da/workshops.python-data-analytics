@@ -1,0 +1,1006 @@
+Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax 5%,Date,Time,Payment,cogs,Rating
+765-26-6951,A,Calgary,Non-member,Male,Sports and travel,72.61,6.0,21.783,2019-01-01,10:39:00,Credit card,435.66,7.0
+746-04-1077,C,Edmonton,Member,Female,Food and beverages,84.63,10.0,42.315,2019-01-01,11:36:00,Credit card,846.3,9.0
+271-77-8740,D,Red Deer,Member,Female,Sports and travel,29.22,6.0,8.766,2019-01-01,11:40:00,Ewallet,175.32,5.0
+133-14-7229,D,Red Deer,Non-member,,Health and beauty,62.87,2.0,6.287,2019-01-01,11:43:00,Cash,125.74,5.0
+651-88-7328,A,Calgary,Non-member,Female,Food and beverages,65.74,9.0,29.583,2019-01-01,13:55:00,Cash,591.66,8.0
+416-17-9926,A,Calgary,Member,,Electronic accessories,74.22,10.0,37.11,2019-01-01,14:42:00,Credit card,742.2,10.0
+530-90-9855,B,Calgary,Member,Male,Home and lifestyle,47.59,8.0,19.036,2019-01-01,14:47:00,Cash,380.72,6.0
+556-97-7101,D,Red Deer,Non-member,Female,Electronic accessories,63.22,2.0,6.322,2019-01-01,15:51:00,Cash,126.44,8.0
+891-01-7034,C,Edmonton,Non-member,Female,Electronic accessories,74.71,6.0,22.413,2019-01-01,19:07:00,Cash,448.26,7.0
+770-42-8960,C,Edmonton,Non-member,Male,Food and beverages,21.12,8.0,8.448,2019-01-01,19:31:00,Cash,168.96,6.0
+493-65-6248,D,Red Deer,Member,Female,Sports and travel,36.98,10.0,18.49,2019-01-01,19:48:00,Credit card,369.8,7.0
+182-52-7000,A,Calgary,Member,Female,Sports and travel,27.04,4.0,5.408,2019-01-01,20:26:00,Ewallet,108.16,10.0
+887-42-0517,D,Red Deer,Non-member,Female,Sports and travel,83.14,7.0,29.099,2019-01-10,10:31:00,Credit card,581.98,7.0
+241-11-2261,C,Edmonton,Non-member,Female,Fashion accessories,79.86,7.0,27.951,2019-01-10,10:33:00,Credit card,559.02,6.0
+226-34-0034,C,Edmonton,Non-member,Female,Electronic accessories,13.78,4.0,2.756,2019-01-10,11:10:00,Ewallet,55.12,9.0
+603-07-0961,D,Red Deer,Member,Male,Electronic accessories,74.79,5.0,18.6975,2019-01-10,11:34:00,Cash,373.95,5.0
+744-02-5987,B,Calgary,Member,Male,Home and lifestyle,78.38,6.0,23.514,2019-01-10,14:16:00,Ewallet,470.28,6.0
+640-49-2076,C,Edmonton,Non-member,Male,Sports and travel,83.78,8.0,33.512,2019-01-10,14:49:00,Cash,670.24,2.0
+873-51-0671,B,Calgary,Member,Female,Sports and travel,21.98,7.0,7.693,2019-01-10,16:42:00,Ewallet,153.86,5.0
+665-32-9167,B,Calgary,Member,Female,Health and beauty,36.26,2.0,3.626,2019-01-10,17:15:00,Credit card,72.52,7.0
+577-34-7579,D,Red Deer,Member,Male,Food and beverages,50.49,9.0,22.7205,2019-01-10,17:16:00,Cash,454.41,
+289-15-7034,A,Calgary,Member,Male,Sports and travel,82.33,4.0,16.466,2019-01-11,10:37:00,Credit card,329.32,
+478-06-7835,B,Calgary,Non-member,Male,Fashion accessories,89.69,1.0,4.4845,2019-01-11,11:20:00,Ewallet,89.69,5.0
+406-46-7107,B,Calgary,Non-member,Female,Home and lifestyle,96.52,6.0,28.956,2019-01-11,11:52:00,Cash,579.12,
+130-67-4723,A,Calgary,Member,Male,Food and beverages,48.5,6.0,14.55,2019-01-11,13:57:00,Ewallet,291.0,9.0
+746-68-6593,D,Red Deer,Member,Female,Sports and travel,87.16,2.0,8.716,2019-01-11,14:29:00,Credit card,174.32,10.0
+540-11-4336,A,Calgary,Non-member,Male,Food and beverages,24.94,9.0,11.223,2019-01-11,16:49:00,Credit card,224.46,6.0
+732-67-5346,A,Calgary,Non-member,Male,Food and beverages,13.79,5.0,3.4475,2019-01-11,19:07:00,Credit card,68.95,10.0
+592-46-1692,D,Red Deer,Member,Female,Food and beverages,36.77,7.0,12.8695,2019-01-11,20:10:00,Cash,257.39,7.0
+852-62-7105,C,Edmonton,Non-member,Female,Fashion accessories,83.25,10.0,41.625,2019-01-12,11:25:00,Credit card,832.5,
+533-66-5566,C,Edmonton,Non-member,Female,Home and lifestyle,51.07,7.0,17.8745,2019-01-12,11:42:00,Cash,357.49,
+659-36-1684,D,Red Deer,Member,Male,Sports and travel,57.12,7.0,19.992,2019-01-12,12:02:00,Credit card,399.84,6.0
+704-48-3927,A,Calgary,Member,Male,Electronic accessories,88.67,10.0,44.335,2019-01-12,14:50:00,Ewallet,886.7,9.0
+381-20-0914,B,Calgary,Member,Female,Fashion accessories,20.01,9.0,9.0045,2019-01-12,15:48:00,Credit card,180.09,6.0
+751-41-9720,D,Red Deer,Non-member,Male,Home and lifestyle,97.5,10.0,48.75,2019-01-12,16:18:00,Ewallet,975.0,10.0
+647-50-1224,B,Calgary,Non-member,Female,Fashion accessories,29.42,10.0,14.71,2019-01-12,16:23:00,Ewallet,294.2,9.0
+751-15-6198,C,Edmonton,Non-member,,Sports and travel,23.01,6.0,6.903,2019-01-12,16:45:00,Ewallet,138.06,2.0
+848-07-1692,C,Edmonton,Non-member,Female,Health and beauty,57.22,2.0,5.722,2019-01-12,17:13:00,Ewallet,114.44,
+197-77-7132,C,Edmonton,Member,Male,Electronic accessories,91.56,8.0,36.624,2019-01-12,18:22:00,Ewallet,732.48,6.0
+296-11-7041,C,Edmonton,Member,Female,Health and beauty,27.07,1.0,1.3535,2019-01-12,20:07:00,Credit card,27.07,5.0
+460-93-5834,B,Calgary,Non-member,Male,Sports and travel,45.58,7.0,15.953,2019-01-13,10:03:00,Cash,319.06,5.0
+195-06-0432,B,Calgary,Member,Male,Home and lifestyle,81.01,3.0,12.1515,2019-01-13,12:55:00,Credit card,243.03,9.0
+784-08-0310,D,Red Deer,Member,Female,Food and beverages,21.04,4.0,4.208,2019-01-13,13:58:00,Cash,84.16,8.0
+339-38-9982,C,Edmonton,Member,Male,Fashion accessories,59.86,2.0,5.986,2019-01-13,14:55:00,Ewallet,119.72,7.0
+732-94-0499,D,Red Deer,Non-member,,Electronic accessories,41.65,10.0,20.825,2019-01-13,17:04:00,Credit card,416.5,5.0
+397-25-8725,B,Calgary,Member,Female,Health and beauty,39.62,9.0,17.829,2019-01-13,17:54:00,Credit card,356.58,7.0
+459-50-7686,A,Calgary,Non-member,Female,Electronic accessories,23.46,6.0,7.038,2019-01-13,19:14:00,Ewallet,140.76,6.0
+556-86-3144,D,Red Deer,Member,Female,Fashion accessories,74.29,1.0,3.7145,2019-01-13,19:30:00,Cash,74.29,5.0
+327-40-9673,C,Edmonton,Member,Male,Sports and travel,72.6,6.0,21.78,2019-01-13,19:51:00,Cash,435.6,7.0
+355-34-6244,C,Edmonton,Non-member,Male,Food and beverages,72.39,2.0,7.239,2019-01-13,19:55:00,Credit card,144.78,
+426-39-2418,D,Red Deer,Non-member,Male,Electronic accessories,61.41,7.0,21.4935,2019-01-14,10:02:00,Cash,429.87,10.0
+320-85-2052,C,Edmonton,Non-member,Female,Sports and travel,34.81,1.0,1.7405,2019-01-14,10:11:00,Credit card,34.81,
+559-61-5987,C,Edmonton,Non-member,Female,Health and beauty,17.75,1.0,0.8875,2019-01-14,10:38:00,Cash,17.75,9.0
+704-10-4056,D,Red Deer,Member,,Health and beauty,60.47,3.0,9.0705,2019-01-14,10:55:00,Credit card,181.41,6.0
+868-52-7573,C,Edmonton,Non-member,Female,Food and beverages,99.69,5.0,24.9225,2019-01-14,12:09:00,Cash,498.45,10.0
+667-23-5919,A,Calgary,Member,Female,Fashion accessories,96.7,5.0,24.175,2019-01-14,12:52:00,Ewallet,483.5,10.0
+377-79-7592,D,Red Deer,Member,,Electronic accessories,44.84,9.0,20.178,2019-01-14,14:00:00,Credit card,403.56,8.0
+592-34-6155,D,Red Deer,Non-member,Male,Food and beverages,31.77,4.0,6.354,2019-01-14,14:43:00,Ewallet,127.08,
+451-73-2711,D,Red Deer,Non-member,Male,Food and beverages,84.83,1.0,4.2415,2019-01-14,15:20:00,Ewallet,84.83,9.0
+658-66-3967,D,Red Deer,Non-member,Male,Health and beauty,53.19,7.0,18.6165,2019-01-14,15:42:00,Ewallet,372.33,
+359-90-3665,C,Edmonton,Member,,Fashion accessories,18.08,4.0,3.616,2019-01-14,18:03:00,Credit card,72.32,10.0
+785-13-7708,C,Edmonton,Non-member,Male,Food and beverages,73.06,7.0,25.571,2019-01-14,19:06:00,Credit card,511.42,1.0
+588-47-8641,B,Calgary,Member,Male,Fashion accessories,56.04,10.0,28.02,2019-01-14,19:30:00,Ewallet,560.4,4.0
+301-11-9629,A,Calgary,Non-member,Female,Sports and travel,19.1,7.0,6.685,2019-01-15,10:43:00,Cash,133.7,10.0
+589-02-8023,B,Calgary,Member,Male,Food and beverages,83.77,2.0,8.377,2019-01-15,10:54:00,Credit card,167.54,7.0
+437-58-8131,C,Edmonton,Non-member,Female,Fashion accessories,73.52,2.0,7.352,2019-01-15,13:41:00,Ewallet,147.04,
+744-16-7898,C,Edmonton,Non-member,Female,Home and lifestyle,97.37,10.0,48.685,2019-01-15,13:48:00,Credit card,973.7,10.0
+188-55-0967,C,Edmonton,Member,Male,Health and beauty,66.47,10.0,33.235,2019-01-15,15:01:00,Credit card,664.7,
+660-29-7083,D,Red Deer,Non-member,Male,Electronic accessories,55.87,10.0,27.935,2019-01-15,15:01:00,Cash,558.7,6.0
+138-17-5109,B,Calgary,Member,Female,Home and lifestyle,89.21,9.0,40.1445,2019-01-15,15:42:00,Credit card,802.89,
+299-46-1805,C,Edmonton,Member,Female,Sports and travel,93.72,6.0,28.116,2019-01-15,16:19:00,Cash,562.32,
+272-65-1806,A,Calgary,Non-member,Female,Electronic accessories,60.88,9.0,27.396,2019-01-15,17:17:00,Ewallet,547.92,5.0
+886-54-6089,A,Calgary,Non-member,Female,Home and lifestyle,11.43,6.0,3.429,2019-01-15,17:24:00,Cash,68.58,10.0
+369-82-2676,C,Edmonton,Non-member,,Electronic accessories,75.66,5.0,18.915,2019-01-15,18:22:00,Ewallet,378.3,
+450-28-2866,A,Calgary,Member,Male,Food and beverages,17.44,5.0,4.36,2019-01-15,19:25:00,Cash,87.2,8.0
+314-23-4520,D,Red Deer,Member,Male,Health and beauty,81.23,7.0,28.4305,2019-01-15,20:44:00,Cash,568.61,9.0
+842-29-4695,D,Red Deer,Member,Male,Sports and travel,17.14,7.0,5.999,2019-01-16,12:07:00,Credit card,119.98,
+234-65-2137,D,Red Deer,Non-member,Male,Home and lifestyle,95.58,10.0,47.79,2019-01-16,13:32:00,Cash,955.8,10.0
+372-62-5264,D,Red Deer,Non-member,Female,Food and beverages,52.6,9.0,23.67,2019-01-16,14:42:00,Cash,473.4,
+859-71-0933,D,Red Deer,Member,Female,Sports and travel,15.49,2.0,1.549,2019-01-16,15:10:00,Cash,30.98,6.0
+659-65-8956,C,Edmonton,Member,Male,Fashion accessories,51.36,1.0,2.568,2019-01-16,15:26:00,Ewallet,51.36,2.0
+648-83-1321,A,Calgary,Member,Male,Home and lifestyle,63.56,10.0,31.78,2019-01-16,17:59:00,Cash,635.6,4.0
+347-72-6115,C,Edmonton,Member,Female,Sports and travel,90.74,7.0,31.759,2019-01-16,18:03:00,Credit card,635.18,6.0
+677-11-0152,D,Red Deer,Non-member,Female,Food and beverages,93.26,9.0,41.967,2019-01-16,18:08:00,Cash,839.34,9.0
+618-34-8551,A,Calgary,Non-member,Female,Sports and travel,93.18,2.0,9.318,2019-01-16,18:41:00,Credit card,186.36,8.0
+286-62-6248,C,Edmonton,Non-member,Male,Fashion accessories,39.21,4.0,7.842,2019-01-16,20:03:00,Credit card,156.84,9.0
+679-22-6530,C,Edmonton,Non-member,Female,Sports and travel,40.62,2.0,4.062,2019-01-17,10:01:00,Credit card,81.24,4.0
+349-97-8902,C,Edmonton,Member,Male,Food and beverages,57.89,2.0,5.789,2019-01-17,10:37:00,Ewallet,115.78,9.0
+101-81-4070,D,Red Deer,Member,Female,Health and beauty,62.82,2.0,6.282,2019-01-17,12:36:00,Ewallet,125.64,5.0
+746-54-5508,B,Calgary,Non-member,Male,Home and lifestyle,21.52,6.0,6.456,2019-01-17,12:48:00,Credit card,129.12,9.0
+698-98-5964,B,Calgary,Non-member,Female,Food and beverages,81.21,10.0,40.605,2019-01-17,13:01:00,Credit card,812.1,
+600-38-9738,D,Red Deer,Member,Male,Sports and travel,71.92,5.0,17.98,2019-01-17,15:05:00,Credit card,359.6,4.0
+497-37-6538,A,Calgary,Non-member,Male,Sports and travel,58.91,7.0,20.6185,2019-01-17,15:15:00,Ewallet,412.37,10.0
+670-79-6321,C,Edmonton,Member,Female,Home and lifestyle,94.59,7.0,33.1065,2019-01-17,15:27:00,Credit card,662.13,
+200-16-5952,D,Red Deer,Member,Male,Food and beverages,65.65,2.0,6.565,2019-01-17,16:46:00,Cash,131.3,6.0
+445-30-9252,B,Calgary,Non-member,Male,Sports and travel,25.7,3.0,3.855,2019-01-17,17:59:00,Ewallet,77.1,6.0
+280-35-5823,C,Edmonton,Member,Female,Home and lifestyle,86.72,1.0,4.336,2019-01-17,18:45:00,Ewallet,86.72,8.0
+562-12-5430,A,Calgary,Member,Female,Fashion accessories,88.15,3.0,13.2225,2019-01-18,10:11:00,Ewallet,264.45,8.0
+414-12-7047,C,Edmonton,Non-member,Male,Food and beverages,19.79,8.0,7.916,2019-01-18,12:04:00,Ewallet,158.32,9.0
+821-14-9046,C,Edmonton,Member,Female,Fashion accessories,17.48,6.0,5.244,2019-01-18,15:04:00,Credit card,104.88,
+622-20-1945,D,Red Deer,Non-member,Female,Health and beauty,39.42,1.0,1.971,2019-01-18,15:08:00,Cash,39.42,8.0
+678-79-0726,D,Red Deer,Member,Female,Sports and travel,90.63,9.0,40.7835,2019-01-18,15:28:00,Cash,815.67,5.0
+781-84-8059,D,Red Deer,Non-member,Male,Fashion accessories,60.74,7.0,,2019-01-18,16:23:00,Ewallet,425.18,5.0
+166-19-2553,A,Calgary,Member,Male,Sports and travel,89.06,6.0,26.718,2019-01-18,17:26:00,Cash,534.36,10.0
+706-36-6154,A,Calgary,Member,Male,Home and lifestyle,19.36,9.0,8.712,2019-01-18,18:43:00,Ewallet,174.24,10.0
+700-81-1757,A,Calgary,Non-member,Female,Electronic accessories,26.31,5.0,6.5775,2019-01-18,20:59:00,Credit card,131.55,9.0
+761-49-0439,C,Edmonton,Member,Female,Electronic accessories,12.1,8.0,4.84,2019-01-19,10:17:00,Ewallet,96.8,9.0
+779-06-0012,D,Red Deer,Member,Female,Home and lifestyle,88.61,1.0,4.4305,2019-01-19,10:21:00,Cash,88.61,8.0
+151-27-8496,D,Red Deer,Non-member,Female,Electronic accessories,56.13,4.0,11.226,2019-01-19,11:43:00,Ewallet,224.52,9.0
+728-47-9078,D,Red Deer,Member,Male,Food and beverages,59.59,4.0,11.918,2019-01-19,12:46:00,Cash,238.36,
+482-17-1179,A,Calgary,Member,Male,Electronic accessories,11.94,3.0,1.791,2019-01-19,12:47:00,Credit card,35.82,8.0
+125-45-2293,B,Calgary,Non-member,Female,Fashion accessories,99.1,6.0,29.73,2019-01-19,13:11:00,Cash,594.6,4.0
+149-61-1929,A,Calgary,Non-member,Male,Sports and travel,64.19,10.0,32.095,2019-01-19,14:08:00,Credit card,641.9,7.0
+882-40-4577,A,Calgary,Member,Male,Sports and travel,67.26,4.0,13.452,2019-01-19,15:28:00,Credit card,269.04,8.0
+375-72-3056,C,Edmonton,Non-member,Male,Sports and travel,63.06,3.0,9.459,2019-01-19,15:58:00,Ewallet,189.18,7.0
+284-54-4231,D,Red Deer,Member,Male,Sports and travel,80.93,1.0,4.0465,2019-01-19,16:08:00,Credit card,80.93,9.0
+796-32-9050,B,Calgary,Non-member,Male,Food and beverages,51.28,6.0,,2019-01-19,16:31:00,Cash,307.68,6.0
+608-27-6295,C,Edmonton,Member,Male,Electronic accessories,52.89,6.0,15.867,2019-01-19,17:34:00,Credit card,317.34,10.0
+809-69-9497,A,Calgary,Non-member,Female,Home and lifestyle,45.68,10.0,22.84,2019-01-19,19:30:00,Ewallet,456.8,10.0
+894-41-5205,D,Red Deer,Non-member,Female,Food and beverages,43.18,8.0,17.272,2019-01-19,19:39:00,Credit card,345.44,8.0
+645-44-1170,A,Calgary,Member,Male,Home and lifestyle,58.07,9.0,26.1315,2019-01-19,20:07:00,Ewallet,522.63,4.0
+832-51-6761,B,Calgary,Non-member,Male,Food and beverages,33.88,8.0,13.552,2019-01-19,20:29:00,Ewallet,271.04,10.0
+244-08-0162,C,Edmonton,Non-member,Female,Health and beauty,34.21,10.0,17.105,2019-01-02,13:00:00,Cash,342.1,5.0
+198-84-7132,C,Edmonton,Member,Male,Fashion accessories,40.61,9.0,18.2745,2019-01-02,13:40:00,Cash,365.49,
+712-39-0363,B,Calgary,Member,Male,Food and beverages,41.66,6.0,12.498,2019-01-02,15:24:00,Ewallet,249.96,
+345-68-9016,D,Red Deer,Member,Female,Sports and travel,31.67,8.0,12.668,2019-01-02,16:19:00,Credit card,253.36,6.0
+504-35-8843,A,Calgary,Non-member,Male,Sports and travel,42.47,1.0,2.1235,2019-01-02,16:57:00,Cash,42.47,6.0
+446-47-6729,A,Calgary,Non-member,Male,Fashion accessories,99.82,2.0,9.982,2019-01-02,18:09:00,Credit card,199.64,7.0
+744-09-5786,C,Edmonton,Non-member,Male,Electronic accessories,22.01,6.0,6.603,2019-01-02,18:50:00,Cash,132.06,8.0
+670-71-7306,C,Edmonton,Non-member,Male,Sports and travel,44.63,6.0,13.389,2019-01-02,20:08:00,Credit card,267.78,5.0
+725-96-3778,D,Red Deer,Member,,Home and lifestyle,89.25,8.0,35.7,2019-01-20,10:13:00,Cash,714.0,5.0
+458-10-8612,D,Red Deer,Non-member,Male,Health and beauty,64.08,7.0,22.428,2019-01-20,12:27:00,Ewallet,448.56,8.0
+356-44-8813,C,Edmonton,Non-member,Male,Home and lifestyle,37.48,3.0,5.622,2019-01-20,13:45:00,Credit card,112.44,8.0
+787-87-2010,A,Calgary,Member,Male,Health and beauty,55.5,4.0,11.1,2019-01-20,15:48:00,Credit card,222.0,7.0
+817-48-8732,A,Calgary,Member,Female,Home and lifestyle,72.35,10.0,36.175,2019-01-20,15:55:00,Cash,723.5,
+257-73-1380,D,Red Deer,Member,Male,Sports and travel,82.93,4.0,16.586,2019-01-20,16:51:00,Ewallet,331.72,
+410-67-1709,A,Calgary,Member,Female,Fashion accessories,63.88,8.0,25.552,2019-01-20,17:48:00,Ewallet,511.04,10.0
+645-78-8093,A,Calgary,Non-member,Female,Sports and travel,93.14,2.0,9.314,2019-01-20,18:09:00,Ewallet,186.28,4.0
+760-27-5490,D,Red Deer,Non-member,Male,Fashion accessories,15.62,8.0,6.248,2019-01-20,20:37:00,Ewallet,124.96,9.0
+378-24-2715,C,Edmonton,Non-member,,Home and lifestyle,53.44,2.0,5.344,2019-01-20,20:38:00,Ewallet,106.88,4.0
+316-68-6352,A,Calgary,Member,Female,Food and beverages,36.36,2.0,3.636,2019-01-21,10:00:00,Cash,72.72,7.0
+870-72-4431,D,Red Deer,Non-member,Female,Health and beauty,99.19,6.0,29.757,2019-01-21,14:42:00,Credit card,595.14,
+239-10-7476,A,Calgary,Non-member,Female,Home and lifestyle,77.95,6.0,23.385,2019-01-21,16:37:00,Ewallet,467.7,8.0
+401-18-8016,C,Edmonton,Member,Female,Sports and travel,98.13,1.0,4.9065,2019-01-21,17:36:00,Cash,98.13,9.0
+462-67-9126,A,Calgary,Non-member,Male,Home and lifestyle,73.22,6.0,21.966,2019-01-21,17:44:00,Cash,439.32,7.0
+329-62-1586,B,Calgary,Non-member,Male,Food and beverages,54.67,3.0,8.2005,2019-01-21,18:00:00,Credit card,164.01,9.0
+269-10-8440,B,Calgary,Member,Male,Health and beauty,53.17,7.0,18.6095,2019-01-21,18:01:00,Cash,372.19,9.0
+162-65-8559,D,Red Deer,Member,Male,Food and beverages,68.98,1.0,3.449,2019-01-21,20:13:00,Cash,68.98,5.0
+287-21-9091,B,Calgary,Non-member,Male,Home and lifestyle,74.67,9.0,33.6015,2019-01-22,10:55:00,Ewallet,672.03,9.0
+186-09-3669,D,Red Deer,Member,Female,Health and beauty,81.51,1.0,4.0755,2019-01-22,10:57:00,Ewallet,81.51,
+460-35-4390,A,Calgary,Non-member,Male,Home and lifestyle,30.68,3.0,4.602,2019-01-22,11:00:00,Ewallet,92.04,9.0
+563-47-4072,C,Edmonton,Non-member,Female,Health and beauty,55.81,6.0,16.743,2019-01-22,11:52:00,Cash,334.86,10.0
+120-54-2248,C,Edmonton,Non-member,Female,Food and beverages,28.86,5.0,7.215,2019-01-22,18:08:00,Credit card,144.3,8.0
+756-01-7507,D,Red Deer,Non-member,Female,Health and beauty,20.38,5.0,5.095,2019-01-22,18:56:00,Cash,101.9,6.0
+521-18-7827,D,Red Deer,Member,Male,Home and lifestyle,39.39,5.0,9.8475,2019-01-22,20:46:00,Credit card,196.95,
+790-38-4466,D,Red Deer,Non-member,Female,Health and beauty,10.99,5.0,2.7475,2019-01-23,10:18:00,Credit card,54.95,9.0
+565-80-5980,D,Red Deer,Member,Female,Home and lifestyle,47.38,4.0,9.476,2019-01-23,10:25:00,Cash,189.52,7.0
+213-32-1216,B,Calgary,Non-member,Female,Electronic accessories,66.06,6.0,19.818,2019-01-23,10:28:00,Cash,396.36,7.0
+148-41-7930,D,Red Deer,Non-member,Male,Health and beauty,99.96,7.0,34.986,2019-01-23,10:33:00,Cash,699.72,6.0
+477-59-2456,D,Red Deer,Non-member,Female,Fashion accessories,45.44,7.0,15.904,2019-01-23,11:15:00,Cash,318.08,9.0
+828-46-6863,B,Calgary,Member,Male,Food and beverages,98.53,6.0,29.559,2019-01-23,11:22:00,Credit card,591.18,4.0
+434-83-9547,A,Calgary,Member,Male,Food and beverages,38.47,8.0,15.388,2019-01-23,11:51:00,Cash,307.76,8.0
+767-05-1286,D,Red Deer,Member,Female,Home and lifestyle,83.77,6.0,25.131,2019-01-23,12:10:00,Ewallet,502.62,
+318-12-0304,A,Calgary,Non-member,Male,Food and beverages,30.61,1.0,1.5305,2019-01-23,12:20:00,Ewallet,30.61,10.0
+316-66-3011,A,Calgary,Member,Female,Food and beverages,47.63,9.0,21.4335,2019-01-23,12:35:00,Cash,428.67,5.0
+731-81-9469,D,Red Deer,Member,Female,Sports and travel,89.8,10.0,44.9,2019-01-23,13:00:00,Credit card,898.0,9.0
+740-22-2500,D,Red Deer,Non-member,Female,Electronic accessories,84.05,3.0,12.6075,2019-01-23,13:29:00,Cash,252.15,10.0
+604-70-6476,B,Calgary,Member,Male,Fashion accessories,17.94,5.0,4.485,2019-01-23,14:04:00,Ewallet,89.7,7.0
+160-22-2687,A,Calgary,Member,Female,Health and beauty,95.95,5.0,23.9875,2019-01-23,14:21:00,Ewallet,479.75,
+219-61-4139,D,Red Deer,Non-member,Male,Electronic accessories,83.08,1.0,4.154,2019-01-23,17:16:00,Ewallet,83.08,6.0
+809-46-1866,A,Calgary,Non-member,Male,Health and beauty,58.15,4.0,11.63,2019-01-23,17:44:00,Cash,232.6,8.0
+480-63-2856,D,Red Deer,Non-member,Male,Food and beverages,19.25,8.0,7.7,2019-01-23,18:37:00,Ewallet,154.0,7.0
+232-11-3025,B,Calgary,Non-member,Male,Sports and travel,78.77,10.0,39.385,2019-01-24,10:04:00,Cash,787.7,6.0
+438-23-1242,C,Edmonton,Non-member,Male,Electronic accessories,75.88,7.0,26.558,2019-01-24,10:38:00,Ewallet,531.16,
+778-34-2523,A,Calgary,Member,Female,Electronic accessories,48.62,8.0,19.448,2019-01-24,10:57:00,Cash,388.96,5.0
+789-23-8625,C,Edmonton,Member,Male,Food and beverages,93.22,3.0,13.983,2019-01-24,11:45:00,Cash,279.66,7.0
+443-60-9639,D,Red Deer,Member,,Home and lifestyle,60.87,1.0,3.0435,2019-01-24,13:24:00,Cash,60.87,6.0
+775-72-1988,C,Edmonton,Non-member,Male,Home and lifestyle,73.28,5.0,18.32,2019-01-24,15:05:00,Ewallet,366.4,8.0
+139-20-0155,C,Edmonton,Member,,Electronic accessories,40.3,10.0,20.15,2019-01-24,17:37:00,Credit card,403.0,7.0
+237-44-6163,A,Calgary,Non-member,Male,Electronic accessories,10.56,8.0,4.224,2019-01-24,17:43:00,Cash,84.48,8.0
+435-13-4908,B,Calgary,Member,Male,Fashion accessories,86.68,8.0,34.672,2019-01-24,18:04:00,Credit card,693.44,7.0
+602-16-6955,C,Edmonton,Non-member,Female,Sports and travel,76.6,10.0,38.3,2019-01-24,18:10:00,Ewallet,766.0,6.0
+510-79-0415,C,Edmonton,Member,Female,Sports and travel,23.08,6.0,6.924,2019-01-24,19:20:00,Ewallet,138.48,5.0
+726-27-2396,A,Calgary,Non-member,Female,Health and beauty,77.5,5.0,,2019-01-24,20:36:00,Ewallet,387.5,4.0
+235-06-8510,D,Red Deer,Member,Male,Home and lifestyle,85.72,3.0,12.858,2019-01-24,20:59:00,Ewallet,257.16,5.0
+730-61-8757,C,Edmonton,Member,Male,Health and beauty,51.13,4.0,10.226,2019-01-25,10:11:00,Credit card,204.52,
+843-73-4724,A,Calgary,Non-member,Male,Fashion accessories,74.1,1.0,3.705,2019-01-25,11:05:00,Cash,74.1,9.0
+340-21-9136,B,Calgary,Member,Female,Sports and travel,40.05,4.0,8.01,2019-01-25,11:40:00,Cash,160.2,10.0
+191-10-6171,C,Edmonton,Non-member,Female,Fashion accessories,39.62,7.0,13.867,2019-01-25,13:18:00,Cash,277.34,
+283-79-9594,C,Edmonton,Non-member,Female,Food and beverages,48.51,7.0,16.9785,2019-01-25,13:30:00,Credit card,339.57,5.0
+394-55-6384,D,Red Deer,Member,Female,Sports and travel,70.19,9.0,31.5855,2019-01-25,13:38:00,Cash,631.71,
+280-17-4359,A,Calgary,Member,Male,Health and beauty,90.5,10.0,45.25,2019-01-25,13:48:00,Cash,905.0,9.0
+856-66-2701,B,Calgary,Member,Male,Home and lifestyle,53.3,3.0,7.995,2019-01-25,14:19:00,Ewallet,159.9,8.0
+569-71-4390,C,Edmonton,Non-member,Male,Sports and travel,21.87,2.0,2.187,2019-01-25,14:29:00,Ewallet,43.74,7.0
+824-88-3614,D,Red Deer,Non-member,,Health and beauty,34.31,8.0,13.724,2019-01-25,15:00:00,Ewallet,274.48,6.0
+778-71-5554,D,Red Deer,Member,Male,Fashion accessories,15.43,1.0,0.7715,2019-01-25,15:46:00,Credit card,15.43,6.0
+307-83-9164,A,Calgary,Member,Male,Home and lifestyle,60.01,4.0,12.002,2019-01-25,15:54:00,Cash,240.04,4.0
+268-03-6164,C,Edmonton,Non-member,Male,Health and beauty,0.0,0.0,0.0,2019-01-25,16:28:00,Ewallet,0.0,0.0
+288-38-3758,D,Red Deer,Member,Female,Fashion accessories,84.87,3.0,12.7305,2019-01-25,18:30:00,Ewallet,254.61,7.0
+261-12-8671,C,Edmonton,Non-member,Female,Fashion accessories,60.96,2.0,6.096,2019-01-25,19:39:00,Credit card,121.92,5.0
+145-94-9061,C,Edmonton,Non-member,,Food and beverages,88.36,5.0,22.09,2019-01-25,19:48:00,Cash,441.8,10.0
+888-02-0338,B,Calgary,Non-member,Male,Electronic accessories,26.23,9.0,11.8035,2019-01-25,20:24:00,Ewallet,236.07,6.0
+881-41-7302,A,Calgary,Non-member,,Food and beverages,64.99,1.0,3.2495,2019-01-26,10:06:00,Credit card,64.99,
+896-34-0956,B,Calgary,Non-member,Male,Fashion accessories,21.32,1.0,1.066,2019-01-26,12:43:00,Cash,21.32,
+316-55-4634,C,Edmonton,Member,Male,Food and beverages,80.05,5.0,20.0125,2019-01-26,12:45:00,Credit card,400.25,2.0
+794-42-3736,C,Edmonton,Non-member,Male,Food and beverages,33.33,2.0,3.333,2019-01-26,14:41:00,Credit card,66.66,
+173-82-9529,C,Edmonton,Non-member,Female,Fashion accessories,37.95,10.0,18.975,2019-01-26,14:51:00,Cash,379.5,10.0
+176-78-1170,D,Red Deer,Member,Male,Health and beauty,33.81,3.0,5.0715,2019-01-26,15:11:00,Ewallet,101.43,
+452-04-8808,C,Edmonton,Non-member,Male,Electronic accessories,87.08,7.0,30.478,2019-01-26,15:17:00,Cash,609.56,3.0
+135-13-8269,C,Edmonton,Member,Female,Food and beverages,78.88,2.0,7.888,2019-01-26,16:04:00,Cash,157.76,9.0
+539-21-7227,C,Edmonton,Non-member,Female,Sports and travel,51.54,5.0,12.885,2019-01-26,17:45:00,Cash,257.7,2.0
+308-39-1707,B,Calgary,Non-member,Female,Fashion accessories,12.09,1.0,0.6045,2019-01-26,18:19:00,Credit card,12.09,8.0
+834-61-8124,B,Calgary,Non-member,Male,Electronic accessories,51.69,7.0,18.0915,2019-01-26,18:22:00,Cash,361.83,6.0
+258-69-7810,D,Red Deer,Non-member,Female,Fashion accessories,36.85,5.0,9.2125,2019-01-26,18:53:00,Cash,184.25,9.0
+836-82-5858,C,Edmonton,Member,Male,Health and beauty,69.37,9.0,31.2165,2019-01-26,19:14:00,Ewallet,624.33,4.0
+289-65-5721,C,Edmonton,Non-member,Female,Fashion accessories,81.37,2.0,8.137,2019-01-26,19:28:00,Cash,162.74,6.0
+225-32-0908,D,Red Deer,Non-member,Female,Sports and travel,44.86,10.0,22.43,2019-01-26,19:54:00,Ewallet,448.6,8.0
+847-38-7188,C,Edmonton,Non-member,Female,Food and beverages,96.68,3.0,14.502,2019-01-26,19:56:00,Ewallet,290.04,6.0
+641-43-2399,C,Edmonton,Non-member,Male,Home and lifestyle,25.55,4.0,5.11,2019-01-26,20:23:00,Ewallet,102.2,6.0
+624-01-8356,C,Edmonton,Non-member,Female,Home and lifestyle,49.01,10.0,24.505,2019-01-27,10:44:00,Credit card,490.1,4.0
+862-59-8517,A,Calgary,Non-member,Female,Food and beverages,90.24,6.0,27.072,2019-01-27,11:17:00,Cash,541.44,6.0
+870-54-3162,B,Calgary,Non-member,Female,Sports and travel,32.25,5.0,8.0625,2019-01-27,13:26:00,Cash,161.25,9.0
+325-90-8763,D,Red Deer,Member,Female,Electronic accessories,46.57,10.0,23.285,2019-01-27,13:58:00,Cash,465.7,8.0
+613-59-9758,D,Red Deer,Non-member,,Sports and travel,14.36,10.0,7.18,2019-01-27,14:28:00,Cash,143.6,5.0
+534-01-4457,A,Calgary,Non-member,Male,Food and beverages,81.71,6.0,24.513,2019-01-27,14:36:00,Credit card,490.26,8.0
+394-41-0748,D,Red Deer,Member,Female,Fashion accessories,54.07,9.0,24.3315,2019-01-27,14:55:00,Ewallet,486.63,10.0
+633-91-1052,B,Calgary,Non-member,Female,Home and lifestyle,12.03,2.0,1.203,2019-01-27,15:51:00,Cash,24.06,5.0
+788-07-8452,D,Red Deer,Member,Female,Home and lifestyle,24.24,7.0,8.484,2019-01-27,17:38:00,Ewallet,169.68,9.0
+595-27-4851,B,Calgary,Non-member,Female,Food and beverages,54.28,7.0,18.998,2019-01-27,18:05:00,Ewallet,379.96,9.0
+585-90-0249,A,Calgary,Member,Male,Electronic accessories,73.26,1.0,3.663,2019-01-27,18:08:00,Ewallet,73.26,
+620-02-2046,A,Calgary,Non-member,Male,Home and lifestyle,69.4,2.0,6.94,2019-01-27,19:48:00,Ewallet,138.8,9.0
+869-11-3082,C,Edmonton,Member,Male,Health and beauty,96.16,4.0,19.232,2019-01-27,20:03:00,Credit card,384.64,8.0
+123-19-1176,B,Calgary,Member,Male,Health and beauty,58.22,8.0,23.288,2019-01-27,20:33:00,Ewallet,465.76,8.0
+544-55-9589,C,Edmonton,Member,Female,Electronic accessories,21.43,10.0,10.715,2019-01-28,11:51:00,Cash,214.3,6.0
+149-71-6266,C,Edmonton,Member,Male,Sports and travel,78.07,9.0,35.1315,2019-01-28,12:43:00,Cash,702.63,4.0
+400-89-4171,D,Red Deer,Non-member,Female,Sports and travel,80.97,8.0,32.388,2019-01-28,13:05:00,Cash,647.76,9.0
+222-42-0244,C,Edmonton,Member,Female,Health and beauty,72.11,9.0,32.4495,2019-01-28,13:53:00,Credit card,648.99,2.0
+211-30-9270,A,Calgary,Non-member,Male,Health and beauty,17.41,5.0,4.3525,2019-01-28,15:16:00,Credit card,87.05,
+430-53-4718,C,Edmonton,Member,Male,Health and beauty,75.37,8.0,30.148,2019-01-28,15:46:00,Credit card,602.96,8.0
+243-47-2663,D,Red Deer,Member,Male,Electronic accessories,18.77,6.0,5.631,2019-01-28,16:43:00,Credit card,112.62,
+342-65-4817,D,Red Deer,Member,Male,Health and beauty,86.8,3.0,13.02,2019-01-28,16:47:00,Ewallet,260.4,
+865-41-9075,A,Calgary,Non-member,Male,Food and beverages,11.53,7.0,4.0355,2019-01-28,17:35:00,Cash,80.71,8.0
+699-88-1972,C,Edmonton,Non-member,Male,Health and beauty,99.16,8.0,39.664,2019-01-28,17:47:00,Credit card,793.28,4.0
+390-80-5128,C,Edmonton,Member,Female,Health and beauty,19.15,1.0,0.9575,2019-01-28,17:58:00,Credit card,19.15,10.0
+372-26-1506,D,Red Deer,Non-member,Female,Fashion accessories,23.82,5.0,5.955,2019-01-28,19:24:00,Ewallet,119.1,
+593-65-1552,D,Red Deer,Non-member,Female,Home and lifestyle,69.81,4.0,13.962,2019-01-28,20:50:00,Credit card,279.24,6.0
+726-29-6793,A,Calgary,Member,Male,Electronic accessories,24.18,8.0,9.672,2019-01-28,20:54:00,Ewallet,193.44,10.0
+606-80-4905,D,Red Deer,Member,Female,Sports and travel,19.15,6.0,5.745,2019-01-29,10:01:00,Credit card,114.9,7.0
+862-17-9201,C,Edmonton,Non-member,Female,Food and beverages,84.05,6.0,25.215,2019-01-29,10:48:00,Credit card,504.3,8.0
+575-67-1508,A,Calgary,Non-member,Male,Electronic accessories,38.6,1.0,1.93,2019-01-29,11:26:00,Ewallet,38.6,7.0
+343-61-3544,C,Edmonton,Member,Male,Sports and travel,26.67,10.0,13.335,2019-01-29,11:48:00,Cash,266.7,9.0
+746-94-0204,A,Calgary,Non-member,Male,Fashion accessories,83.24,9.0,37.458,2019-01-29,11:56:00,Credit card,749.16,
+382-25-8917,D,Red Deer,Non-member,Male,Fashion accessories,42.08,6.0,12.624,2019-01-29,12:25:00,Cash,252.48,9.0
+233-67-5758,D,Red Deer,Non-member,Male,Health and beauty,40.35,1.0,2.0175,2019-01-29,13:46:00,Ewallet,40.35,6.0
+110-48-7033,C,Edmonton,Member,Male,Food and beverages,32.62,4.0,6.524,2019-01-29,14:12:00,Cash,130.48,9.0
+137-63-5492,D,Red Deer,Non-member,Male,Electronic accessories,58.76,10.0,29.38,2019-01-29,14:26:00,Ewallet,587.6,9.0
+816-72-8853,A,Calgary,Member,Female,Sports and travel,27.93,5.0,6.9825,2019-01-29,15:48:00,Cash,139.65,6.0
+569-76-2760,B,Calgary,Member,Female,Sports and travel,22.01,4.0,4.402,2019-01-29,18:15:00,Credit card,88.04,
+800-09-8606,A,Calgary,Member,Female,Home and lifestyle,87.37,5.0,21.8425,2019-01-29,19:45:00,Cash,436.85,7.0
+343-87-0864,A,Calgary,Member,Male,Health and beauty,75.88,1.0,3.794,2019-01-03,10:30:00,Credit card,75.88,
+249-42-3782,B,Calgary,Non-member,Male,Health and beauty,70.01,5.0,17.5025,2019-01-03,11:36:00,Ewallet,350.05,6.0
+749-24-1565,B,Calgary,Non-member,Female,Health and beauty,23.03,9.0,10.3635,2019-01-03,12:02:00,Ewallet,207.27,
+875-31-8302,C,Edmonton,Non-member,Male,Sports and travel,93.38,1.0,4.669,2019-01-03,13:07:00,Cash,93.38,10.0
+422-29-8786,B,Calgary,Non-member,Female,Home and lifestyle,67.09,5.0,16.7725,2019-01-03,16:47:00,Credit card,335.45,9.0
+552-44-5977,C,Edmonton,Member,Male,Health and beauty,62.0,8.0,24.8,2019-01-03,19:08:00,Credit card,496.0,
+687-15-1097,D,Red Deer,Member,Female,Health and beauty,21.12,2.0,2.112,2019-01-03,19:17:00,Cash,42.24,10.0
+501-61-1753,C,Edmonton,Non-member,Female,Home and lifestyle,63.15,6.0,18.945,2019-01-03,20:24:00,Ewallet,378.9,3.0
+804-38-3935,A,Calgary,Member,Male,Electronic accessories,93.78,3.0,14.067,2019-01-30,11:32:00,Credit card,281.34,6.0
+182-69-8360,C,Edmonton,Non-member,Female,Electronic accessories,23.65,4.0,4.73,2019-01-30,13:32:00,Credit card,94.6,
+134-54-4720,C,Edmonton,Non-member,Female,Electronic accessories,42.42,8.0,16.968,2019-01-30,13:58:00,Ewallet,339.36,6.0
+664-14-2882,D,Red Deer,Member,Female,Home and lifestyle,10.53,5.0,2.6325,2019-01-30,14:43:00,Credit card,52.65,
+416-13-5917,A,Calgary,Non-member,Female,Food and beverages,97.03,5.0,24.2575,2019-01-30,16:24:00,Ewallet,485.15,
+862-29-5914,D,Red Deer,Non-member,Female,Sports and travel,22.38,1.0,1.119,2019-01-30,17:08:00,Credit card,22.38,9.0
+423-80-0988,D,Red Deer,Non-member,Male,Sports and travel,76.4,2.0,7.64,2019-01-30,19:42:00,Ewallet,152.8,6.0
+283-26-5248,D,Red Deer,Member,Female,Food and beverages,98.52,10.0,49.26,2019-01-30,20:23:00,Ewallet,985.2,10.0
+556-72-8512,D,Red Deer,Non-member,Male,Home and lifestyle,22.96,1.0,1.148,2019-01-30,20:47:00,Cash,22.96,
+522-57-8364,A,Calgary,Member,Male,Fashion accessories,51.34,8.0,20.536,2019-01-31,10:00:00,Ewallet,410.72,8.0
+189-55-2313,D,Red Deer,Non-member,Female,Fashion accessories,62.18,10.0,31.09,2019-01-31,10:33:00,Ewallet,621.8,6.0
+735-32-9839,A,Calgary,Member,Male,Fashion accessories,98.7,8.0,39.48,2019-01-31,10:36:00,Ewallet,789.6,
+366-93-0948,A,Calgary,Member,Male,Electronic accessories,66.35,1.0,3.3175,2019-01-31,10:46:00,Credit card,66.35,10.0
+226-71-3580,A,Calgary,Non-member,Female,Sports and travel,23.75,9.0,10.6875,2019-01-31,12:02:00,Cash,213.75,10.0
+525-88-7307,C,Edmonton,Member,Male,Sports and travel,75.82,1.0,3.791,2019-01-31,13:19:00,Cash,75.82,6.0
+239-36-3640,C,Edmonton,Non-member,Male,Electronic accessories,45.35,6.0,13.605,2019-01-31,13:44:00,Ewallet,272.1,6.0
+187-83-5490,A,Calgary,Member,Male,Electronic accessories,20.77,4.0,4.154,2019-01-31,13:47:00,Cash,83.08,
+532-59-7201,C,Edmonton,Member,Male,Sports and travel,79.93,6.0,23.979,2019-01-31,14:04:00,Cash,479.58,6.0
+525-09-8450,C,Edmonton,Non-member,Male,Electronic accessories,72.13,10.0,36.065,2019-01-31,15:12:00,Credit card,721.3,4.0
+583-72-1480,D,Red Deer,Member,Male,Electronic accessories,37.06,4.0,7.412,2019-01-31,16:24:00,Ewallet,148.24,10.0
+286-75-7818,C,Edmonton,Non-member,Male,Fashion accessories,69.08,2.0,6.908,2019-01-31,19:48:00,Credit card,138.16,7.0
+457-94-0464,C,Edmonton,Member,Male,Electronic accessories,87.87,9.0,39.5415,2019-01-31,20:32:00,Ewallet,790.83,6.0
+834-45-5519,C,Edmonton,Non-member,Female,Electronic accessories,43.0,4.0,8.6,2019-01-31,20:48:00,Ewallet,172.0,
+132-23-6451,A,Calgary,Member,Male,Health and beauty,20.97,5.0,5.2425,2019-01-04,13:21:00,Cash,104.85,8.0
+656-16-1063,C,Edmonton,Non-member,Male,Sports and travel,46.42,3.0,6.963,2019-01-04,13:24:00,Credit card,139.26,1.0
+731-14-2199,A,Calgary,Member,Female,Home and lifestyle,35.54,10.0,17.77,2019-01-04,13:34:00,Ewallet,355.4,7.0
+672-51-8681,D,Red Deer,Member,Female,Electronic accessories,66.65,9.0,29.9925,2019-01-04,18:19:00,Credit card,599.85,
+725-32-9708,C,Edmonton,Member,Female,Fashion accessories,68.71,4.0,13.742,2019-01-04,19:01:00,Cash,274.84,3.0
+279-74-2924,C,Edmonton,Member,Male,Electronic accessories,72.17,1.0,3.6085,2019-01-04,19:40:00,Cash,72.17,6.0
+217-58-1179,B,Calgary,Member,Male,Home and lifestyle,62.65,4.0,12.53,2019-01-05,11:25:00,Cash,250.6,1.0
+339-12-4827,C,Edmonton,Member,Female,Fashion accessories,73.96,1.0,3.698,2019-01-05,11:32:00,Credit card,73.96,
+489-82-1237,A,Calgary,Non-member,Female,Electronic accessories,93.88,7.0,,2019-01-05,11:51:00,Credit card,657.16,7.0
+573-98-8548,D,Red Deer,Member,Female,Food and beverages,31.9,1.0,1.595,2019-01-05,12:40:00,Ewallet,31.9,9.0
+750-67-8428,A,Calgary,Member,Female,Health and beauty,74.69,7.0,26.1415,2019-01-05,13:08:00,Ewallet,522.83,9.0
+144-51-6085,B,Calgary,Member,Male,Home and lifestyle,70.74,4.0,14.148,2019-01-05,16:05:00,Credit card,282.96,4.0
+209-61-0206,A,Calgary,Non-member,Female,Home and lifestyle,42.91,5.0,10.7275,2019-01-05,17:29:00,Ewallet,214.55,6.0
+433-08-7822,D,Red Deer,Non-member,Female,Health and beauty,78.89,7.0,27.6115,2019-01-05,19:48:00,Ewallet,552.23,
+843-01-4703,C,Edmonton,Member,Female,Home and lifestyle,35.38,9.0,15.921,2019-01-05,19:50:00,Credit card,318.42,10.0
+801-88-0346,D,Red Deer,Non-member,Female,Fashion accessories,76.06,3.0,11.409,2019-01-05,20:30:00,Credit card,228.18,10.0
+841-18-8232,C,Edmonton,Non-member,Female,Food and beverages,71.2,1.0,3.56,2019-01-05,20:40:00,Credit card,71.2,9.0
+628-34-3388,A,Calgary,Non-member,Male,Fashion accessories,27.38,6.0,8.214,2019-01-05,20:54:00,Credit card,164.28,8.0
+490-29-1201,A,Calgary,Non-member,Female,Sports and travel,15.34,1.0,0.767,2019-01-06,11:09:00,Cash,15.34,6.0
+729-06-2010,C,Edmonton,Member,Male,Health and beauty,80.47,9.0,36.2115,2019-01-06,11:18:00,Cash,724.23,9.0
+704-11-6354,A,Calgary,Member,Male,Home and lifestyle,58.9,8.0,23.56,2019-01-06,11:23:00,Cash,471.2,9.0
+846-10-0341,B,Calgary,Non-member,Female,Fashion accessories,42.57,7.0,14.8995,2019-01-06,11:51:00,Cash,297.99,7.0
+834-25-9262,D,Red Deer,Non-member,Female,Fashion accessories,81.68,4.0,16.336,2019-01-06,12:12:00,Cash,326.72,9.0
+393-65-2792,D,Red Deer,Non-member,Male,Food and beverages,89.48,10.0,44.74,2019-01-06,12:46:00,Credit card,894.8,9.0
+852-82-2749,B,Calgary,Non-member,,Sports and travel,64.59,4.0,12.918,2019-01-06,13:35:00,Ewallet,258.36,9.0
+662-72-2873,B,Calgary,Non-member,Female,Food and beverages,40.94,5.0,10.235,2019-01-06,13:58:00,Ewallet,204.7,10.0
+826-58-8051,C,Edmonton,Non-member,Male,Home and lifestyle,62.19,4.0,12.438,2019-01-06,19:46:00,Ewallet,248.76,4.0
+126-54-1082,B,Calgary,Member,Female,Home and lifestyle,21.54,9.0,9.693,2019-01-07,11:44:00,Credit card,193.86,9.0
+541-48-8554,A,Calgary,Non-member,Male,Sports and travel,60.95,9.0,27.4275,2019-01-07,12:08:00,Credit card,548.55,6.0
+889-04-9723,C,Edmonton,Member,Female,Food and beverages,89.14,4.0,17.828,2019-01-07,12:20:00,Credit card,356.56,8.0
+232-16-2483,D,Red Deer,Member,Female,Sports and travel,68.12,1.0,3.406,2019-01-07,12:28:00,Ewallet,68.12,7.0
+390-31-6381,D,Red Deer,Non-member,Male,Food and beverages,27.22,3.0,4.083,2019-01-07,12:37:00,Cash,81.66,7.0
+109-28-2512,C,Edmonton,Member,Female,Fashion accessories,97.61,6.0,29.283,2019-01-07,15:01:00,Ewallet,585.66,10.0
+799-71-1548,B,Calgary,Member,Male,Electronic accessories,77.72,4.0,15.544,2019-01-07,16:11:00,Credit card,310.88,9.0
+526-86-8552,D,Red Deer,Member,Female,Home and lifestyle,21.82,10.0,10.91,2019-01-07,17:36:00,Cash,218.2,7.0
+566-19-5475,C,Edmonton,Non-member,Male,Fashion accessories,47.97,7.0,16.7895,2019-01-07,20:52:00,Cash,335.79,6.0
+442-44-6497,D,Red Deer,Member,Male,Home and lifestyle,55.57,3.0,8.3355,2019-01-08,11:42:00,Credit card,166.71,6.0
+767-97-4650,C,Edmonton,Member,Female,Sports and travel,64.83,2.0,6.483,2019-01-08,11:59:00,Credit card,129.66,8.0
+387-49-4215,C,Edmonton,Member,,Sports and travel,48.5,3.0,7.275,2019-01-08,12:50:00,Cash,145.5,7.0
+241-96-5076,C,Edmonton,Member,Female,Home and lifestyle,49.1,2.0,4.91,2019-01-08,12:58:00,Credit card,98.2,6.0
+674-15-9296,B,Calgary,Non-member,Male,Sports and travel,37.14,5.0,9.285,2019-01-08,13:05:00,Ewallet,185.7,
+750-57-9686,D,Red Deer,Non-member,Female,Home and lifestyle,45.38,4.0,9.076,2019-01-08,13:48:00,Credit card,181.52,
+192-98-7397,D,Red Deer,Non-member,Male,Fashion accessories,12.78,1.0,0.639,2019-01-08,14:11:00,Ewallet,12.78,10.0
+490-95-0021,C,Edmonton,Member,Female,Food and beverages,33.21,10.0,16.605,2019-01-08,14:25:00,Ewallet,332.1,6.0
+124-31-1458,A,Calgary,Member,Female,Electronic accessories,79.59,3.0,11.9385,2019-01-08,14:30:00,Cash,238.77,7.0
+663-86-9076,D,Red Deer,Member,Female,Food and beverages,68.54,8.0,27.416,2019-01-08,15:57:00,Ewallet,548.32,
+189-08-9157,D,Red Deer,Non-member,Female,Fashion accessories,31.73,9.0,14.2785,2019-01-08,16:17:00,Credit card,285.57,6.0
+257-60-7754,B,Calgary,Non-member,Female,Electronic accessories,50.23,4.0,10.046,2019-01-08,17:12:00,Cash,200.92,
+840-76-5966,A,Calgary,Member,Male,Sports and travel,12.76,2.0,1.276,2019-01-08,18:06:00,Ewallet,25.52,
+457-13-1708,C,Edmonton,Member,Male,Fashion accessories,65.23,10.0,32.615,2019-01-08,19:07:00,Credit card,652.3,5.0
+631-34-1880,D,Red Deer,Member,Male,Food and beverages,24.31,3.0,3.6465,2019-01-08,19:09:00,Credit card,72.93,4.0
+845-94-6841,D,Red Deer,Member,Female,Food and beverages,72.88,9.0,32.796,2019-01-08,19:38:00,Cash,655.92,4.0
+484-22-8230,D,Red Deer,Member,Female,Food and beverages,51.89,7.0,18.1615,2019-01-08,20:08:00,Cash,363.23,
+571-94-0759,C,Edmonton,Member,Female,Food and beverages,74.6,10.0,37.3,2019-01-08,20:55:00,Cash,746.0,10.0
+189-40-5216,D,Red Deer,Non-member,Male,Electronic accessories,96.37,7.0,33.7295,2019-01-09,11:40:00,Cash,674.59,
+867-47-1948,D,Red Deer,Non-member,,Home and lifestyle,15.8,10.0,7.9,2019-01-09,12:07:00,Cash,158.0,8.0
+288-62-1085,B,Calgary,Member,Male,Food and beverages,38.54,5.0,9.635,2019-01-09,13:34:00,Ewallet,192.7,6.0
+554-42-2417,D,Red Deer,Non-member,Female,Sports and travel,95.44,10.0,47.72,2019-01-09,13:45:00,Cash,954.4,10.0
+370-96-0655,A,Calgary,Non-member,Female,Fashion accessories,49.32,6.0,14.796,2019-01-09,13:46:00,Ewallet,295.92,7.0
+263-10-3913,D,Red Deer,Member,Male,Fashion accessories,49.04,9.0,22.068,2019-01-09,14:20:00,Credit card,441.36,9.0
+343-75-9322,C,Edmonton,Member,Female,Sports and travel,11.85,8.0,4.74,2019-01-09,16:34:00,Cash,94.8,1.0
+305-89-2768,C,Edmonton,Member,Female,Home and lifestyle,21.9,3.0,3.285,2019-01-09,18:43:00,Ewallet,65.7,
+870-76-1733,B,Calgary,Member,Female,Food and beverages,14.23,5.0,3.5575,2019-02-01,10:08:00,Credit card,71.15,4.0
+551-21-3069,D,Red Deer,Non-member,Female,Electronic accessories,23.07,9.0,10.3815,2019-02-01,11:27:00,Cash,207.63,5.0
+105-31-1824,A,Calgary,Member,Male,Sports and travel,69.52,7.0,24.332,2019-02-01,15:10:00,Credit card,486.64,8.0
+358-88-9262,D,Red Deer,Member,Female,Food and beverages,87.48,6.0,26.244,2019-02-01,18:43:00,Ewallet,524.88,5.0
+443-82-0585,A,Calgary,Member,Female,Health and beauty,77.68,4.0,15.536,2019-02-01,19:54:00,Cash,310.72,8.0
+237-01-6122,D,Red Deer,Member,Female,Home and lifestyle,80.79,9.0,36.3555,2019-02-01,20:31:00,Credit card,727.11,10.0
+685-64-1609,A,Calgary,Member,Female,Fashion accessories,30.14,10.0,15.07,2019-02-10,12:28:00,Ewallet,301.4,9.0
+669-54-1719,C,Edmonton,Member,Male,Electronic accessories,18.93,6.0,5.679,2019-02-10,12:45:00,Credit card,113.58,8.0
+400-60-7251,A,Calgary,Non-member,Male,Home and lifestyle,74.07,1.0,3.7035,2019-02-10,12:50:00,Ewallet,74.07,10.0
+559-98-9873,B,Calgary,Member,Female,Fashion accessories,53.65,7.0,18.7775,2019-02-10,12:56:00,Ewallet,375.55,
+448-34-8700,C,Edmonton,Member,Male,Home and lifestyle,36.91,7.0,12.9185,2019-02-10,13:51:00,Ewallet,258.37,7.0
+196-01-2849,D,Red Deer,Member,Female,Fashion accessories,73.38,7.0,25.683,2019-02-10,13:56:00,Cash,513.66,10.0
+162-48-8011,A,Calgary,Member,Female,Food and beverages,44.59,5.0,11.1475,2019-02-10,15:10:00,Cash,222.95,8.0
+838-78-4295,D,Red Deer,Non-member,Female,Health and beauty,33.47,2.0,3.347,2019-02-10,15:43:00,Ewallet,66.94,7.0
+378-07-7001,C,Edmonton,Member,Male,Electronic accessories,48.09,3.0,7.2135,2019-02-10,18:23:00,Credit card,144.27,2.0
+695-51-0018,C,Edmonton,Non-member,,Sports and travel,34.84,4.0,6.968,2019-02-10,18:36:00,Cash,139.36,7.0
+227-07-4446,D,Red Deer,Member,,Electronic accessories,78.13,10.0,39.065,2019-02-10,20:51:00,Cash,781.3,3.0
+842-40-8179,C,Edmonton,Member,Female,Food and beverages,77.2,10.0,38.6,2019-02-11,10:38:00,Credit card,772.0,6.0
+284-34-9626,C,Edmonton,Non-member,Female,Home and lifestyle,77.04,3.0,11.556,2019-02-11,10:39:00,Credit card,231.12,7.0
+418-02-5978,C,Edmonton,Non-member,Female,Health and beauty,84.09,9.0,37.8405,2019-02-11,10:54:00,Cash,756.81,8.0
+531-56-4728,B,Calgary,Non-member,Male,Home and lifestyle,80.08,3.0,12.012,2019-02-11,15:29:00,Cash,240.24,5.0
+866-99-7614,D,Red Deer,Non-member,Male,Food and beverages,89.2,10.0,44.6,2019-02-11,15:42:00,Credit card,892.0,9.0
+534-53-3526,A,Calgary,Non-member,Female,Sports and travel,94.76,4.0,18.952,2019-02-11,16:06:00,Ewallet,379.04,
+796-12-2025,D,Red Deer,Non-member,Male,Fashion accessories,62.12,10.0,31.06,2019-02-11,16:19:00,Cash,621.2,6.0
+401-09-4232,D,Red Deer,Member,Male,Home and lifestyle,86.69,5.0,21.6725,2019-02-11,18:38:00,Ewallet,433.45,9.0
+365-64-0515,A,Calgary,Non-member,Female,Electronic accessories,46.95,5.0,11.7375,2019-02-12,10:25:00,Ewallet,234.75,7.0
+549-03-9315,C,Edmonton,Non-member,Male,Fashion accessories,94.87,8.0,37.948,2019-02-12,12:58:00,Ewallet,758.96,9.0
+373-14-0504,A,Calgary,Member,Female,Sports and travel,71.63,2.0,7.163,2019-02-12,14:33:00,Ewallet,143.26,9.0
+641-51-2661,D,Red Deer,Member,Female,Food and beverages,87.1,10.0,43.55,2019-02-12,14:45:00,Credit card,871.0,9.0
+305-18-3552,C,Edmonton,Member,Male,Home and lifestyle,60.38,10.0,30.19,2019-02-12,16:19:00,Cash,603.8,
+885-56-0389,A,Calgary,Member,Male,Fashion accessories,52.35,1.0,2.6175,2019-02-12,17:49:00,Cash,52.35,4.0
+287-83-1405,A,Calgary,Non-member,Male,Health and beauty,25.43,6.0,7.629,2019-02-12,19:01:00,Ewallet,152.58,
+528-87-5606,C,Edmonton,Member,Female,Electronic accessories,39.48,1.0,1.974,2019-02-12,19:43:00,Cash,39.48,6.0
+139-52-2867,D,Red Deer,Non-member,Female,Fashion accessories,22.51,7.0,7.8785,2019-02-13,10:50:00,Credit card,157.57,5.0
+173-50-1108,C,Edmonton,Member,Female,Sports and travel,20.18,4.0,4.036,2019-02-13,12:14:00,Credit card,80.72,5.0
+151-16-1484,A,Calgary,Member,Male,Electronic accessories,32.25,4.0,6.45,2019-02-13,12:38:00,Ewallet,129.0,6.0
+388-76-2555,C,Edmonton,Non-member,Male,Sports and travel,13.69,6.0,4.107,2019-02-13,13:59:00,Cash,82.14,6.0
+339-18-7061,D,Red Deer,Member,Female,Fashion accessories,92.98,2.0,9.298,2019-02-13,15:06:00,Credit card,185.96,8.0
+767-54-1907,C,Edmonton,Member,Female,Fashion accessories,29.56,5.0,7.39,2019-02-13,16:59:00,Cash,147.8,7.0
+549-23-9016,D,Red Deer,Member,Female,Food and beverages,14.87,2.0,1.487,2019-02-13,18:15:00,Credit card,29.74,9.0
+563-36-9814,B,Calgary,Member,Male,Electronic accessories,76.82,1.0,3.841,2019-02-13,18:27:00,Ewallet,76.82,7.0
+235-46-8343,D,Red Deer,Member,Male,Food and beverages,27.66,10.0,13.83,2019-02-14,11:26:00,Credit card,276.6,9.0
+109-86-4363,C,Edmonton,Member,Female,Sports and travel,60.08,7.0,21.028,2019-02-14,11:36:00,Credit card,420.56,
+545-07-8534,D,Red Deer,Non-member,Female,Health and beauty,58.32,2.0,5.832,2019-02-14,12:42:00,Ewallet,116.64,6.0
+853-23-2453,C,Edmonton,Member,Male,Health and beauty,75.74,4.0,15.148,2019-02-14,14:35:00,Cash,302.96,
+528-14-9470,A,Calgary,Member,Male,Health and beauty,91.3,1.0,4.565,2019-02-14,14:42:00,Ewallet,91.3,9.0
+150-89-8043,A,Calgary,Non-member,Male,Sports and travel,44.65,3.0,6.6975,2019-02-14,15:04:00,Cash,133.95,6.0
+638-60-7125,A,Calgary,Non-member,Female,Electronic accessories,99.56,8.0,39.824,2019-02-14,17:03:00,Credit card,796.48,5.0
+174-36-3675,D,Red Deer,Member,Male,Food and beverages,99.37,2.0,9.937,2019-02-14,17:29:00,Cash,198.74,5.0
+305-03-2383,A,Calgary,Non-member,Female,Food and beverages,67.1,3.0,10.065,2019-02-15,10:36:00,Cash,201.3,8.0
+233-34-0817,D,Red Deer,Member,Female,Electronic accessories,98.84,1.0,4.942,2019-02-15,11:21:00,Cash,98.84,8.0
+246-11-3901,D,Red Deer,Non-member,Female,Electronic accessories,32.8,10.0,16.4,2019-02-15,12:12:00,Cash,328.0,6.0
+541-89-9860,D,Red Deer,Member,Female,Fashion accessories,80.48,3.0,12.072,2019-02-15,12:31:00,Cash,241.44,8.0
+394-43-4238,C,Edmonton,Member,Male,Home and lifestyle,17.77,5.0,4.4425,2019-02-15,12:42:00,Credit card,88.85,
+227-78-1148,C,Edmonton,Non-member,Female,Fashion accessories,72.84,7.0,25.494,2019-02-15,12:44:00,Cash,509.88,8.0
+152-68-2907,B,Calgary,Non-member,Male,Food and beverages,52.2,3.0,7.83,2019-02-15,13:30:00,Credit card,156.6,10.0
+234-36-2483,C,Edmonton,Non-member,Male,Health and beauty,57.59,6.0,17.277,2019-02-15,13:51:00,Cash,345.54,5.0
+710-46-4433,C,Edmonton,Member,Female,Food and beverages,77.4,9.0,34.83,2019-02-15,14:15:00,Credit card,696.6,4.0
+860-79-0874,D,Red Deer,Member,Female,Fashion accessories,99.3,10.0,49.65,2019-02-15,14:53:00,Credit card,993.0,10.0
+497-36-0989,A,Calgary,Non-member,Male,Fashion accessories,51.94,3.0,7.791,2019-02-15,15:21:00,Cash,155.82,
+136-08-6195,B,Calgary,Non-member,Female,Home and lifestyle,69.96,8.0,27.984,2019-02-15,17:01:00,Credit card,559.68,6.0
+556-41-6224,D,Red Deer,Non-member,Male,Health and beauty,33.64,8.0,13.456,2019-02-15,17:10:00,Credit card,269.12,
+321-49-7382,C,Edmonton,Member,,Sports and travel,88.31,1.0,4.4155,2019-02-15,17:38:00,Credit card,88.31,5.0
+285-68-5083,D,Red Deer,Member,Female,Sports and travel,24.74,3.0,3.711,2019-02-15,17:47:00,Credit card,74.22,10.0
+372-94-8041,B,Calgary,Non-member,Male,Health and beauty,15.26,6.0,4.578,2019-02-15,18:03:00,Ewallet,91.56,10.0
+873-95-4984,C,Edmonton,Member,Female,Health and beauty,76.9,7.0,26.915,2019-02-15,20:21:00,Cash,538.3,2.0
+400-80-4065,D,Red Deer,Member,Male,Health and beauty,68.55,4.0,13.71,2019-02-15,20:21:00,Credit card,274.2,9.0
+431-66-2305,C,Edmonton,Non-member,Female,Electronic accessories,88.25,9.0,39.7125,2019-02-15,20:51:00,Credit card,794.25,3.0
+873-14-6353,A,Calgary,Member,Male,Food and beverages,24.82,7.0,8.687,2019-02-16,10:33:00,Credit card,173.74,
+895-03-6665,C,Edmonton,Non-member,Female,Fashion accessories,36.51,9.0,16.4295,2019-02-16,10:52:00,Cash,328.59,4.0
+241-72-9525,C,Edmonton,Non-member,Male,Sports and travel,51.91,10.0,25.955,2019-02-16,12:21:00,Cash,519.1,
+408-66-6712,D,Red Deer,Member,Female,Health and beauty,47.71,6.0,14.313,2019-02-16,14:19:00,Ewallet,286.26,4.0
+598-06-7312,C,Edmonton,Member,Male,Fashion accessories,91.35,1.0,4.5675,2019-02-16,15:42:00,Cash,91.35,7.0
+273-84-2164,D,Red Deer,Member,Male,Electronic accessories,12.05,5.0,3.0125,2019-02-16,15:53:00,Ewallet,60.25,
+587-03-7455,D,Red Deer,Member,Female,Fashion accessories,97.79,7.0,34.2265,2019-02-16,17:30:00,Ewallet,684.53,5.0
+133-77-3154,C,Edmonton,Member,Male,Fashion accessories,60.18,4.0,12.036,2019-02-16,18:04:00,Credit card,240.72,9.0
+612-36-5536,A,Calgary,Member,Male,Food and beverages,80.96,8.0,32.384,2019-02-17,11:12:00,Credit card,647.68,7.0
+636-48-8204,B,Calgary,Non-member,Male,Electronic accessories,34.56,5.0,8.64,2019-02-17,11:15:00,Ewallet,172.8,10.0
+788-21-5741,B,Calgary,Non-member,,Fashion accessories,45.38,3.0,6.807,2019-02-17,13:34:00,Credit card,136.14,7.0
+590-83-4591,C,Edmonton,Member,Male,Electronic accessories,87.45,6.0,26.235,2019-02-17,14:40:00,Credit card,524.7,
+785-96-0615,C,Edmonton,Member,,Electronic accessories,35.74,8.0,14.296,2019-02-17,15:28:00,Ewallet,285.92,5.0
+131-70-8179,B,Calgary,Member,Female,Health and beauty,92.09,3.0,13.8135,2019-02-17,16:27:00,Cash,276.27,
+201-63-8275,D,Red Deer,Member,Female,Sports and travel,67.99,7.0,23.7965,2019-02-17,16:50:00,Ewallet,475.93,6.0
+803-17-8013,A,Calgary,Member,Female,Home and lifestyle,88.79,8.0,35.516,2019-02-17,17:09:00,Cash,710.32,4.0
+634-97-8956,B,Calgary,Non-member,Male,Food and beverages,32.9,3.0,4.935,2019-02-17,17:27:00,Credit card,98.7,9.0
+389-25-3394,D,Red Deer,Non-member,Male,Electronic accessories,11.81,5.0,2.9525,2019-02-17,18:06:00,Cash,59.05,9.0
+123-35-4896,D,Red Deer,Non-member,Female,Sports and travel,46.66,9.0,20.997,2019-02-17,19:11:00,Ewallet,419.94,
+827-77-7633,B,Calgary,Non-member,Male,Sports and travel,98.09,9.0,44.1405,2019-02-17,19:41:00,Cash,882.81,9.0
+420-11-4919,D,Red Deer,Member,Female,Food and beverages,71.39,5.0,17.8475,2019-02-17,19:57:00,Credit card,356.95,6.0
+652-49-6720,D,Red Deer,Member,Female,Electronic accessories,60.95,1.0,3.0475,2019-02-18,11:40:00,Ewallet,60.95,6.0
+849-09-3807,A,Calgary,Member,Female,Fashion accessories,88.34,7.0,30.919,2019-02-18,13:28:00,Cash,618.38,7.0
+764-44-8999,C,Edmonton,Non-member,Female,Health and beauty,14.76,2.0,1.476,2019-02-18,14:42:00,Ewallet,29.52,
+354-39-5160,A,Calgary,Member,Female,Home and lifestyle,34.42,6.0,10.326,2019-02-18,15:39:00,Cash,206.52,
+787-15-1757,D,Red Deer,Member,,Health and beauty,44.07,4.0,8.814,2019-02-18,16:28:00,Ewallet,176.28,8.0
+597-78-7908,A,Calgary,Non-member,Male,Food and beverages,90.22,3.0,13.533,2019-02-18,19:39:00,Cash,270.66,6.0
+278-97-7759,A,Calgary,Member,Female,Electronic accessories,62.48,1.0,3.124,2019-02-18,20:29:00,Cash,62.48,10.0
+409-33-9708,B,Calgary,Non-member,Female,Fashion accessories,98.48,2.0,9.848,2019-02-19,10:12:00,Ewallet,196.96,9.0
+886-77-9084,D,Red Deer,Non-member,Male,Electronic accessories,71.89,8.0,28.756,2019-02-19,11:33:00,Ewallet,575.12,6.0
+449-16-6770,A,Calgary,Non-member,Male,Health and beauty,50.79,5.0,12.6975,2019-02-19,14:53:00,Credit card,253.95,
+384-59-6655,A,Calgary,Member,Female,Food and beverages,98.66,9.0,44.397,2019-02-19,15:07:00,Cash,887.94,9.0
+183-21-3799,D,Red Deer,Non-member,Female,Electronic accessories,77.63,9.0,34.9335,2019-02-19,15:14:00,Ewallet,698.67,
+272-27-9238,A,Calgary,Non-member,Female,Food and beverages,41.24,4.0,8.248,2019-02-19,16:23:00,Cash,164.96,7.0
+629-42-4133,D,Red Deer,Non-member,Male,Health and beauty,21.8,8.0,8.72,2019-02-19,19:24:00,Cash,174.4,8.0
+752-23-3760,C,Edmonton,Member,Female,Sports and travel,64.08,7.0,22.428,2019-02-19,19:29:00,Credit card,448.56,
+868-06-0466,B,Calgary,Member,Male,Electronic accessories,69.58,9.0,31.311,2019-02-19,19:38:00,Credit card,626.22,8.0
+554-53-8700,D,Red Deer,Member,Male,Home and lifestyle,56.11,2.0,5.611,2019-02-02,10:11:00,Cash,112.22,6.0
+717-96-4189,D,Red Deer,Non-member,Female,Electronic accessories,35.49,6.0,10.647,2019-02-02,12:40:00,Cash,212.94,4.0
+376-56-3573,D,Red Deer,Non-member,Female,Fashion accessories,95.42,4.0,19.084,2019-02-02,13:23:00,Ewallet,381.68,6.0
+756-93-1854,D,Red Deer,Member,Female,Fashion accessories,83.35,2.0,8.335,2019-02-02,14:05:00,Credit card,166.7,10.0
+845-51-0542,C,Edmonton,Member,Male,Food and beverages,46.55,9.0,20.9475,2019-02-02,15:34:00,Ewallet,418.95,6.0
+420-18-8989,A,Calgary,Member,Female,Sports and travel,51.52,8.0,20.608,2019-02-02,15:47:00,Cash,412.16,10.0
+390-17-5806,D,Red Deer,Member,Female,Food and beverages,38.42,1.0,1.921,2019-02-02,16:33:00,Cash,38.42,9.0
+405-31-3305,A,Calgary,Member,Male,Fashion accessories,43.13,10.0,21.565,2019-02-02,18:31:00,Credit card,431.3,6.0
+376-02-8238,C,Edmonton,Non-member,Male,Home and lifestyle,93.87,8.0,37.548,2019-02-02,18:42:00,Credit card,750.96,8.0
+382-03-4532,B,Calgary,Member,Female,Health and beauty,18.33,1.0,0.9165,2019-02-02,18:50:00,Cash,18.33,4.0
+201-86-2184,C,Edmonton,Member,,Electronic accessories,26.26,7.0,9.191,2019-02-02,19:40:00,Cash,183.82,10.0
+541-08-3113,D,Red Deer,Non-member,Male,Food and beverages,65.97,8.0,26.388,2019-02-02,20:29:00,Cash,527.76,8.0
+418-05-0656,C,Edmonton,Non-member,Female,Food and beverages,25.56,7.0,8.946,2019-02-02,20:42:00,Cash,178.92,7.0
+642-32-2990,A,Calgary,Non-member,Female,Food and beverages,10.96,10.0,5.48,2019-02-02,20:48:00,Ewallet,109.6,
+779-42-2410,C,Edmonton,Member,Male,Food and beverages,57.74,3.0,8.661,2019-02-20,13:06:00,Ewallet,173.22,8.0
+848-95-6252,A,Calgary,Member,Female,Home and lifestyle,86.27,1.0,,2019-02-20,13:24:00,Ewallet,86.27,7.0
+692-92-5582,C,Edmonton,Member,Female,Food and beverages,54.84,3.0,8.226,2019-02-20,13:27:00,Credit card,164.52,3.0
+311-13-6971,C,Edmonton,Member,Male,Sports and travel,31.99,10.0,15.995,2019-02-20,15:18:00,Credit card,319.9,10.0
+548-46-9322,C,Edmonton,Non-member,,Food and beverages,39.9,10.0,19.95,2019-02-20,15:24:00,Credit card,399.0,6.0
+546-80-2899,A,Calgary,Member,Male,Home and lifestyle,37.69,2.0,3.769,2019-02-20,15:29:00,Ewallet,75.38,10.0
+782-95-9291,A,Calgary,Member,Male,Food and beverages,92.29,5.0,23.0725,2019-02-20,15:55:00,Credit card,461.45,9.0
+725-56-0833,A,Calgary,Non-member,,Health and beauty,32.32,10.0,16.16,2019-02-20,16:49:00,Credit card,323.2,
+498-41-1961,C,Edmonton,Non-member,Male,Health and beauty,66.68,5.0,16.67,2019-02-20,18:01:00,Cash,333.4,
+458-61-0011,C,Edmonton,Non-member,Male,Food and beverages,60.3,4.0,12.06,2019-02-20,18:43:00,Cash,241.2,6.0
+389-70-2397,D,Red Deer,Non-member,Female,Health and beauty,83.66,5.0,20.915,2019-02-21,10:26:00,Cash,418.3,
+714-02-3114,D,Red Deer,Non-member,Female,Sports and travel,98.8,2.0,9.88,2019-02-21,11:39:00,Cash,197.6,8.0
+279-62-1445,D,Red Deer,Member,Female,Fashion accessories,12.54,1.0,0.627,2019-02-21,12:38:00,Cash,12.54,
+503-21-4385,C,Edmonton,Member,Male,Health and beauty,39.91,3.0,5.9865,2019-02-21,12:40:00,Ewallet,119.73,9.0
+319-74-2561,B,Calgary,Member,Female,Electronic accessories,94.64,3.0,14.196,2019-02-21,16:55:00,Cash,283.92,6.0
+269-04-5750,C,Edmonton,Member,Male,Fashion accessories,73.82,4.0,14.764,2019-02-21,18:31:00,Cash,295.28,7.0
+488-25-4221,D,Red Deer,Member,Female,Food and beverages,30.41,1.0,1.5205,2019-02-22,10:36:00,Credit card,30.41,8.0
+831-64-0259,C,Edmonton,Non-member,Female,Food and beverages,39.75,5.0,9.9375,2019-02-22,10:43:00,Ewallet,198.75,2.0
+582-52-8065,C,Edmonton,Non-member,Female,Fashion accessories,54.31,9.0,24.4395,2019-02-22,10:49:00,Cash,488.79,9.0
+777-67-2495,C,Edmonton,Non-member,Male,Home and lifestyle,68.97,3.0,10.3455,2019-02-22,11:26:00,Ewallet,206.91,
+838-02-1821,D,Red Deer,Member,Female,Home and lifestyle,12.73,2.0,1.273,2019-02-22,12:10:00,Credit card,25.46,5.0
+807-14-7833,A,Calgary,Member,Female,Electronic accessories,17.42,10.0,8.71,2019-02-22,12:30:00,Ewallet,174.2,
+864-24-7918,B,Calgary,Member,Female,Sports and travel,24.49,10.0,12.245,2019-02-22,15:15:00,Cash,244.9,
+347-56-2442,A,Calgary,Non-member,Male,Home and lifestyle,65.82,1.0,3.291,2019-02-22,15:33:00,Cash,65.82,
+743-88-1662,D,Red Deer,Non-member,Male,Sports and travel,95.49,7.0,33.4215,2019-02-22,18:17:00,Ewallet,668.43,
+837-55-7229,C,Edmonton,Non-member,Female,Fashion accessories,47.44,1.0,2.372,2019-02-22,18:19:00,Credit card,47.44,2.0
+690-01-6631,C,Edmonton,Non-member,Male,Fashion accessories,17.49,10.0,8.745,2019-02-22,18:35:00,Ewallet,174.9,7.0
+831-81-6575,C,Edmonton,Member,Female,Electronic accessories,75.59,9.0,34.0155,2019-02-23,11:12:00,Cash,680.31,8.0
+396-90-2219,C,Edmonton,Non-member,,Electronic accessories,14.96,8.0,5.984,2019-02-23,12:29:00,Cash,119.68,3.0
+729-46-7422,D,Red Deer,Non-member,Male,Food and beverages,35.89,1.0,1.7945,2019-02-23,16:52:00,Credit card,35.89,8.0
+274-05-5470,B,Calgary,Member,Female,Food and beverages,73.47,4.0,14.694,2019-02-23,18:30:00,Cash,293.88,
+787-56-0757,D,Red Deer,Member,Female,Food and beverages,80.36,4.0,16.072,2019-02-23,18:45:00,Credit card,321.44,8.0
+503-07-0930,D,Red Deer,Member,Male,Sports and travel,58.39,7.0,20.4365,2019-02-23,19:49:00,Credit card,408.73,8.0
+695-09-5146,C,Edmonton,Member,Female,Food and beverages,98.79,3.0,14.8185,2019-02-23,20:00:00,Ewallet,296.37,6.0
+190-14-3147,C,Edmonton,Non-member,Female,Health and beauty,17.97,4.0,3.594,2019-02-23,20:43:00,Ewallet,71.88,6.0
+186-43-8965,A,Calgary,Member,Female,Home and lifestyle,47.68,2.0,4.768,2019-02-24,10:10:00,Credit card,95.36,4.0
+803-83-5989,D,Red Deer,Non-member,Male,Home and lifestyle,55.73,6.0,16.719,2019-02-24,10:55:00,Ewallet,334.38,7.0
+315-22-5665,D,Red Deer,Non-member,Female,Home and lifestyle,73.56,10.0,36.78,2019-02-24,11:38:00,Ewallet,735.6,8.0
+692-27-8933,C,Edmonton,Non-member,Female,Sports and travel,57.95,6.0,17.385,2019-02-24,13:02:00,Cash,347.7,5.0
+516-77-6464,D,Red Deer,Member,Female,Health and beauty,10.16,5.0,2.54,2019-02-24,13:08:00,Ewallet,50.8,4.0
+365-16-4334,C,Edmonton,Non-member,Female,Food and beverages,26.43,8.0,10.572,2019-02-24,14:26:00,Ewallet,211.44,9.0
+740-11-5257,D,Red Deer,Non-member,Male,Electronic accessories,24.74,10.0,12.37,2019-02-24,16:44:00,Cash,247.4,7.0
+380-60-5336,A,Calgary,Non-member,Female,Electronic accessories,40.26,10.0,20.13,2019-02-24,18:06:00,Credit card,402.6,5.0
+242-11-3142,C,Edmonton,Member,Male,Fashion accessories,83.77,2.0,8.377,2019-02-24,19:57:00,Cash,167.54,
+300-71-4605,A,Calgary,Member,Male,Electronic accessories,86.04,5.0,21.51,2019-02-25,11:24:00,Ewallet,430.2,5.0
+866-70-2814,C,Edmonton,Non-member,Female,Electronic accessories,52.79,10.0,26.395,2019-02-25,11:58:00,Ewallet,527.9,10.0
+574-80-1489,C,Edmonton,Member,Female,Food and beverages,62.85,4.0,12.57,2019-02-25,13:22:00,Ewallet,251.4,9.0
+505-02-0892,C,Edmonton,Member,Male,Health and beauty,42.57,8.0,17.028,2019-02-25,14:12:00,Ewallet,340.56,
+355-53-5943,A,Calgary,Member,Female,Electronic accessories,68.84,6.0,20.652,2019-02-25,14:36:00,Ewallet,413.04,6.0
+735-06-4124,A,Calgary,Non-member,Male,Food and beverages,48.61,1.0,2.4305,2019-02-25,15:31:00,Cash,48.61,
+719-89-8991,A,Calgary,Member,Female,Sports and travel,91.41,5.0,22.8525,2019-02-25,16:03:00,Ewallet,457.05,7.0
+275-28-0149,B,Calgary,Non-member,Male,Sports and travel,63.69,1.0,3.1845,2019-02-25,16:21:00,Cash,63.69,
+511-54-3087,C,Edmonton,Non-member,Male,Sports and travel,88.45,1.0,4.4225,2019-02-25,16:36:00,Credit card,88.45,10.0
+308-81-0538,B,Calgary,Non-member,Female,Fashion accessories,73.05,4.0,14.61,2019-02-25,17:16:00,Credit card,292.2,5.0
+834-83-1826,C,Edmonton,Member,Female,Home and lifestyle,82.04,5.0,20.51,2019-02-25,17:16:00,Credit card,410.2,8.0
+636-17-0325,C,Edmonton,Non-member,Male,Health and beauty,62.57,4.0,12.514,2019-02-25,18:37:00,Cash,250.28,10.0
+459-45-2396,A,Calgary,Member,Female,Food and beverages,99.6,3.0,14.94,2019-02-25,18:45:00,Cash,298.8,6.0
+871-79-8483,C,Edmonton,Non-member,Male,Fashion accessories,94.13,5.0,23.5325,2019-02-25,19:39:00,Credit card,470.65,5.0
+608-05-3804,C,Edmonton,Member,Male,Electronic accessories,39.75,1.0,1.9875,2019-02-25,20:19:00,Cash,39.75,6.0
+502-05-1910,A,Calgary,Non-member,Male,Health and beauty,65.18,3.0,9.777,2019-02-25,20:35:00,Credit card,195.54,6.0
+466-61-5506,C,Edmonton,Member,Female,Electronic accessories,90.7,6.0,27.21,2019-02-26,10:52:00,Cash,544.2,2.0
+437-53-3084,C,Edmonton,Non-member,Male,Fashion accessories,99.89,2.0,9.989,2019-02-26,11:48:00,Ewallet,199.78,
+707-32-7409,C,Edmonton,Member,Female,Sports and travel,95.54,4.0,19.108,2019-02-26,11:58:00,Ewallet,382.16,4.0
+702-72-0487,B,Calgary,Non-member,Female,Electronic accessories,46.61,2.0,4.661,2019-02-26,12:28:00,Credit card,93.22,7.0
+518-71-6847,C,Edmonton,Member,Male,Food and beverages,26.6,6.0,7.98,2019-02-26,15:10:00,Ewallet,159.6,5.0
+477-24-6490,C,Edmonton,Non-member,Female,Health and beauty,99.71,6.0,29.913,2019-02-26,16:52:00,Ewallet,598.26,8.0
+491-38-3499,B,Calgary,Member,Male,Fashion accessories,55.45,1.0,2.7725,2019-02-26,17:46:00,Credit card,55.45,5.0
+154-74-7179,C,Edmonton,Non-member,Male,Sports and travel,54.45,1.0,2.7225,2019-02-26,19:24:00,Ewallet,54.45,8.0
+649-11-3678,D,Red Deer,Non-member,Female,Food and beverages,22.93,9.0,10.3185,2019-02-26,20:26:00,Cash,206.37,6.0
+250-81-7186,D,Red Deer,Non-member,Female,Electronic accessories,99.69,1.0,4.9845,2019-02-27,10:23:00,Credit card,99.69,8.0
+400-45-1220,C,Edmonton,Non-member,Female,Health and beauty,13.5,10.0,6.75,2019-02-27,11:06:00,Credit card,135.0,5.0
+243-55-8457,A,Calgary,Non-member,Female,Food and beverages,74.44,10.0,37.22,2019-02-27,11:40:00,Ewallet,744.4,5.0
+105-10-6182,B,Calgary,Member,Male,Food and beverages,21.48,2.0,2.148,2019-02-27,12:22:00,Ewallet,42.96,7.0
+263-12-5321,A,Calgary,Member,Male,Electronic accessories,92.6,7.0,32.41,2019-02-27,12:52:00,Credit card,648.2,9.0
+605-72-4132,D,Red Deer,Non-member,Female,Food and beverages,94.47,8.0,37.788,2019-02-27,15:12:00,Cash,755.76,9.0
+135-84-8019,B,Calgary,Non-member,Female,Fashion accessories,77.93,9.0,35.0685,2019-02-27,16:10:00,Ewallet,701.37,8.0
+370-41-7321,C,Edmonton,Member,Male,Health and beauty,56.69,9.0,25.5105,2019-02-27,17:24:00,Credit card,510.21,8.0
+741-73-3559,C,Edmonton,Non-member,Male,Sports and travel,67.27,5.0,16.8175,2019-02-27,17:27:00,Cash,336.35,7.0
+665-63-9737,C,Edmonton,Non-member,Male,Fashion accessories,52.42,3.0,7.863,2019-02-27,17:36:00,Ewallet,157.26,8.0
+318-68-5053,C,Edmonton,Non-member,Female,Health and beauty,76.99,6.0,23.097,2019-02-27,17:55:00,Cash,461.94,6.0
+250-17-5703,B,Calgary,Member,Male,Food and beverages,18.85,10.0,9.425,2019-02-27,18:24:00,Ewallet,188.5,6.0
+191-29-0321,C,Edmonton,Member,Female,Fashion accessories,19.77,10.0,9.885,2019-02-27,18:57:00,Credit card,197.7,
+759-98-4285,D,Red Deer,Member,Female,Health and beauty,85.87,7.0,30.0545,2019-02-27,19:01:00,Credit card,601.09,8.0
+709-58-4068,C,Edmonton,Non-member,Female,Fashion accessories,41.09,10.0,20.545,2019-02-28,14:42:00,Cash,410.9,7.0
+291-59-1384,C,Edmonton,Non-member,Male,Electronic accessories,60.3,1.0,3.015,2019-02-28,17:38:00,Cash,60.3,
+142-72-4741,D,Red Deer,Member,Male,Fashion accessories,93.2,2.0,9.32,2019-02-28,18:37:00,Credit card,186.4,6.0
+399-46-5918,D,Red Deer,Non-member,Female,Electronic accessories,85.98,8.0,34.392,2019-02-28,19:01:00,Cash,687.84,
+635-28-5728,A,Calgary,Non-member,Male,Health and beauty,56.0,3.0,8.4,2019-02-28,19:33:00,Ewallet,168.0,5.0
+786-94-2700,A,Calgary,Member,Male,Food and beverages,80.62,6.0,24.186,2019-02-28,20:18:00,Cash,483.72,9.0
+326-71-2155,D,Red Deer,Non-member,Female,Sports and travel,73.95,4.0,14.79,2019-02-03,10:02:00,Cash,295.8,
+326-78-5178,D,Red Deer,Member,Male,Food and beverages,91.4,7.0,31.99,2019-02-03,10:19:00,Cash,639.8,
+585-86-8361,B,Calgary,Non-member,Female,Food and beverages,27.28,5.0,6.82,2019-02-03,10:31:00,Credit card,136.4,9.0
+443-59-0061,A,Calgary,Member,Male,Food and beverages,67.45,10.0,33.725,2019-02-03,11:25:00,Ewallet,674.5,
+322-02-2271,C,Edmonton,Non-member,Female,Sports and travel,42.97,3.0,6.4455,2019-02-03,11:46:00,Cash,128.91,9.0
+347-34-2234,C,Edmonton,Member,Female,Sports and travel,55.07,9.0,24.7815,2019-02-03,13:40:00,Ewallet,495.63,10.0
+190-59-3964,C,Edmonton,Member,Male,Food and beverages,47.16,5.0,11.79,2019-02-03,14:35:00,Credit card,235.8,
+430-60-3493,A,Calgary,Member,Female,Home and lifestyle,94.88,7.0,33.208,2019-02-03,14:38:00,Cash,664.16,4.0
+639-76-1242,D,Red Deer,Non-member,Male,Food and beverages,40.52,5.0,10.13,2019-02-03,15:19:00,Cash,202.6,4.0
+277-63-2961,C,Edmonton,Member,Male,Sports and travel,73.97,1.0,3.6985,2019-02-03,15:53:00,Credit card,73.97,5.0
+566-71-1091,A,Calgary,Non-member,Male,Fashion accessories,77.02,5.0,19.255,2019-02-03,15:59:00,Cash,385.1,6.0
+718-57-9773,D,Red Deer,Non-member,Female,Sports and travel,49.33,10.0,24.665,2019-02-03,16:40:00,Credit card,493.3,9.0
+742-04-5161,A,Calgary,Member,Male,Home and lifestyle,72.78,10.0,36.39,2019-02-03,17:24:00,Cash,727.8,7.0
+676-10-2200,C,Edmonton,Member,Male,Fashion accessories,53.78,1.0,2.689,2019-02-03,20:13:00,Ewallet,53.78,5.0
+745-71-3520,A,Calgary,Member,Female,Electronic accessories,25.22,7.0,8.827,2019-02-04,10:23:00,Cash,176.54,8.0
+441-94-7118,A,Calgary,Member,Male,Electronic accessories,71.95,1.0,3.5975,2019-02-04,12:14:00,Cash,71.95,7.0
+268-20-3585,D,Red Deer,Non-member,Female,Health and beauty,13.85,9.0,6.2325,2019-02-04,12:50:00,Ewallet,124.65,
+627-95-3243,C,Edmonton,Member,Female,Home and lifestyle,77.68,9.0,34.956,2019-02-04,13:21:00,Ewallet,699.12,10.0
+236-86-3015,D,Red Deer,Member,Male,Home and lifestyle,13.98,1.0,0.699,2019-02-04,13:38:00,Ewallet,13.98,10.0
+518-17-2983,A,Calgary,Non-member,Female,Fashion accessories,48.63,4.0,9.726,2019-02-04,15:44:00,Ewallet,194.52,8.0
+404-91-5964,A,Calgary,Non-member,Male,Electronic accessories,74.58,7.0,26.103,2019-02-04,16:09:00,Credit card,522.06,10.0
+695-28-6250,B,Calgary,Non-member,Female,Sports and travel,43.06,5.0,10.765,2019-02-04,16:38:00,Ewallet,215.3,8.0
+434-35-9162,C,Edmonton,Member,Male,Food and beverages,23.34,4.0,4.668,2019-02-04,18:53:00,Ewallet,93.36,
+198-66-9832,C,Edmonton,Member,Female,Food and beverages,72.04,2.0,7.204,2019-02-04,19:38:00,Cash,144.08,
+151-33-7434,C,Edmonton,Non-member,Female,Food and beverages,67.77,1.0,3.3885,2019-02-04,20:43:00,Credit card,67.77,6.0
+729-09-9681,A,Calgary,Member,,Home and lifestyle,25.91,6.0,7.773,2019-02-05,10:16:00,Ewallet,155.46,9.0
+409-49-6995,A,Calgary,Member,Female,Food and beverages,47.27,6.0,14.181,2019-02-05,10:17:00,Cash,283.62,9.0
+210-67-5886,D,Red Deer,Member,Female,Health and beauty,98.21,3.0,14.7315,2019-02-05,10:41:00,Credit card,294.63,8.0
+479-26-8945,C,Edmonton,Member,Female,Sports and travel,16.49,2.0,1.649,2019-02-05,11:32:00,Ewallet,32.98,2.0
+880-35-0356,A,Calgary,Member,Female,Sports and travel,75.2,3.0,11.28,2019-02-05,11:51:00,Ewallet,225.6,5.0
+210-57-1719,C,Edmonton,Non-member,Female,Health and beauty,58.24,9.0,26.208,2019-02-05,12:34:00,Cash,524.16,2.0
+307-04-2070,B,Calgary,Member,Female,Fashion accessories,30.62,1.0,1.531,2019-02-05,14:14:00,Credit card,30.62,4.0
+374-17-3652,C,Edmonton,Member,Female,Food and beverages,42.82,9.0,19.269,2019-02-05,15:26:00,Credit card,385.38,
+324-92-3863,B,Calgary,Member,Male,Electronic accessories,20.89,2.0,2.089,2019-02-05,18:45:00,Cash,41.78,10.0
+181-94-6432,D,Red Deer,Member,Male,Fashion accessories,69.33,2.0,6.933,2019-02-05,19:05:00,Ewallet,138.66,10.0
+325-89-4209,B,Calgary,Member,Male,Food and beverages,87.9,1.0,4.395,2019-02-05,19:42:00,Ewallet,87.9,7.0
+338-65-2210,D,Red Deer,Member,Female,Health and beauty,68.6,10.0,34.3,2019-02-05,19:57:00,Cash,686.0,
+471-06-8611,D,Red Deer,Non-member,Female,Food and beverages,52.42,1.0,2.621,2019-02-06,10:22:00,Credit card,52.42,6.0
+183-56-6882,D,Red Deer,Member,Female,Food and beverages,99.42,4.0,19.884,2019-02-06,10:42:00,Ewallet,397.68,
+609-81-8548,A,Calgary,Member,Female,Home and lifestyle,37.44,6.0,11.232,2019-02-06,13:55:00,Credit card,224.64,6.0
+149-14-0304,D,Red Deer,Member,Female,Health and beauty,28.5,8.0,11.4,2019-02-06,14:24:00,Cash,228.0,7.0
+875-46-5808,C,Edmonton,Member,Male,Health and beauty,25.9,10.0,12.95,2019-02-06,14:51:00,Ewallet,259.0,9.0
+811-35-1094,C,Edmonton,Member,Male,Electronic accessories,50.45,6.0,15.135,2019-02-06,15:16:00,Credit card,302.7,9.0
+727-46-3608,C,Edmonton,Member,Female,Food and beverages,20.01,9.0,9.0045,2019-02-06,15:47:00,Ewallet,180.09,4.0
+595-86-2894,D,Red Deer,Member,Male,Fashion accessories,96.98,4.0,19.396,2019-02-06,17:20:00,Ewallet,387.92,9.0
+351-62-0822,C,Edmonton,Member,Female,Fashion accessories,14.48,4.0,2.896,2019-02-06,18:07:00,Ewallet,57.92,3.0
+258-92-7466,A,Calgary,Non-member,Female,Health and beauty,35.68,5.0,8.92,2019-02-06,18:33:00,Credit card,178.4,7.0
+373-88-1424,D,Red Deer,Member,Male,Home and lifestyle,35.81,5.0,8.9525,2019-02-06,18:44:00,Ewallet,179.05,
+857-67-9057,C,Edmonton,Non-member,Male,Electronic accessories,22.95,10.0,11.475,2019-02-06,19:20:00,Ewallet,229.5,2.0
+512-91-0811,D,Red Deer,Non-member,Male,Health and beauty,89.75,1.0,4.4875,2019-02-06,20:05:00,Credit card,89.75,7.0
+453-33-6436,B,Calgary,Non-member,Female,Home and lifestyle,93.12,8.0,37.248,2019-02-07,10:09:00,Cash,744.96,7.0
+421-95-9805,B,Calgary,Non-member,Female,Electronic accessories,28.96,1.0,1.448,2019-02-07,10:18:00,Credit card,28.96,6.0
+635-40-6220,A,Calgary,Non-member,Male,Health and beauty,89.6,8.0,35.84,2019-02-07,11:28:00,Ewallet,716.8,7.0
+827-44-5872,C,Edmonton,Member,Female,Food and beverages,54.36,10.0,27.18,2019-02-07,11:28:00,Credit card,543.6,
+583-41-4548,D,Red Deer,Non-member,Male,Home and lifestyle,16.67,7.0,5.8345,2019-02-07,11:36:00,Ewallet,116.69,7.0
+626-43-7888,D,Red Deer,Non-member,Female,Fashion accessories,60.41,8.0,24.164,2019-02-07,12:23:00,Ewallet,483.28,10.0
+380-94-4661,D,Red Deer,Member,Male,Electronic accessories,65.94,4.0,13.188,2019-02-07,13:05:00,Credit card,263.76,7.0
+560-49-6611,A,Calgary,Member,Female,Sports and travel,45.58,1.0,2.279,2019-02-07,14:13:00,Cash,45.58,10.0
+784-21-9238,D,Red Deer,Member,Male,Sports and travel,10.17,1.0,0.5085,2019-02-07,14:15:00,Cash,10.17,6.0
+648-94-3045,A,Calgary,Non-member,Male,Health and beauty,58.95,10.0,29.475,2019-02-07,14:27:00,Ewallet,589.5,8.0
+810-60-6344,D,Red Deer,Non-member,Female,Electronic accessories,40.86,8.0,16.344,2019-02-07,14:38:00,Credit card,326.88,6.0
+114-35-5271,C,Edmonton,Non-member,Female,Electronic accessories,57.91,8.0,23.164,2019-02-07,15:06:00,Cash,463.28,
+430-02-3888,C,Edmonton,Non-member,Male,Electronic accessories,46.02,6.0,13.806,2019-02-07,15:55:00,Cash,276.12,3.0
+252-56-2699,A,Calgary,Non-member,Male,Food and beverages,43.19,10.0,21.595,2019-02-07,16:48:00,Ewallet,431.9,8.0
+641-96-3695,D,Red Deer,Member,Female,Fashion accessories,43.46,6.0,13.038,2019-02-07,17:55:00,Ewallet,260.76,8.0
+744-82-9138,D,Red Deer,Non-member,Male,Fashion accessories,86.13,2.0,8.613,2019-02-07,17:59:00,Cash,172.26,
+214-17-6927,D,Red Deer,Non-member,Female,Food and beverages,16.48,6.0,4.944,2019-02-07,18:23:00,Ewallet,98.88,10.0
+868-81-1752,C,Edmonton,Non-member,Male,Home and lifestyle,22.02,9.0,9.909,2019-02-07,18:48:00,Cash,198.18,
+374-38-5555,C,Edmonton,Non-member,Female,Fashion accessories,63.71,5.0,15.9275,2019-02-07,19:30:00,Ewallet,318.55,
+533-33-5337,C,Edmonton,Non-member,Male,Electronic accessories,79.39,10.0,39.695,2019-02-07,20:24:00,Cash,793.9,6.0
+373-73-7910,A,Calgary,Non-member,Male,Sports and travel,86.31,7.0,30.2085,2019-02-08,10:37:00,Ewallet,604.17,5.0
+732-04-5373,C,Edmonton,Member,Male,Home and lifestyle,46.47,4.0,9.294,2019-02-08,10:53:00,Cash,185.88,7.0
+181-82-6255,C,Edmonton,Non-member,Female,Home and lifestyle,16.37,6.0,4.911,2019-02-08,10:58:00,Cash,98.22,7.0
+549-84-7482,C,Edmonton,Non-member,Female,Sports and travel,90.28,9.0,40.626,2019-02-08,11:15:00,Ewallet,812.52,2.0
+756-49-0168,B,Calgary,Member,Male,Fashion accessories,19.7,1.0,0.985,2019-02-08,11:39:00,Ewallet,19.7,10.0
+815-04-6282,D,Red Deer,Member,Female,Sports and travel,64.97,5.0,16.2425,2019-02-08,12:52:00,Credit card,324.85,6.0
+271-88-8734,D,Red Deer,Member,Female,Fashion accessories,97.21,10.0,48.605,2019-02-08,13:00:00,Credit card,972.1,10.0
+354-25-5821,C,Edmonton,Member,Female,Sports and travel,69.12,6.0,20.736,2019-02-08,13:03:00,Cash,414.72,6.0
+440-59-5691,A,Calgary,Member,Female,Health and beauty,37.15,7.0,13.0025,2019-02-08,13:12:00,Credit card,260.05,8.0
+830-58-2383,C,Edmonton,Non-member,,Home and lifestyle,31.75,4.0,6.35,2019-02-08,15:26:00,Cash,127.0,9.0
+649-29-6775,C,Edmonton,Non-member,Male,Fashion accessories,33.52,1.0,1.676,2019-02-08,15:31:00,Cash,33.52,7.0
+687-47-8271,B,Calgary,Non-member,Male,Fashion accessories,98.98,10.0,49.49,2019-02-08,16:20:00,Credit card,989.8,10.0
+130-98-8941,D,Red Deer,Non-member,Male,Fashion accessories,64.26,7.0,22.491,2019-02-09,10:00:00,Cash,449.82,6.0
+746-19-0921,D,Red Deer,Non-member,,Food and beverages,21.58,1.0,1.079,2019-02-09,10:02:00,Ewallet,21.58,7.0
+428-83-5800,D,Red Deer,Member,Female,Food and beverages,21.08,3.0,3.162,2019-02-09,10:25:00,Cash,63.24,7.0
+447-15-7839,B,Calgary,Member,Female,Sports and travel,22.24,10.0,11.12,2019-02-09,11:00:00,Cash,222.4,1.0
+200-40-6154,C,Edmonton,Member,Male,Home and lifestyle,65.91,6.0,19.773,2019-02-09,11:45:00,Cash,395.46,6.0
+509-10-0516,C,Edmonton,Non-member,Male,Home and lifestyle,45.97,4.0,9.194,2019-02-09,12:02:00,Ewallet,183.88,
+871-39-9221,D,Red Deer,Non-member,Female,Electronic accessories,12.45,6.0,3.735,2019-02-09,13:11:00,Cash,74.7,
+727-02-1313,B,Calgary,Member,Male,Food and beverages,31.84,1.0,1.592,2019-02-09,13:22:00,Cash,31.84,8.0
+602-80-9671,D,Red Deer,Member,Female,Home and lifestyle,15.95,6.0,4.785,2019-02-09,17:15:00,Credit card,95.7,
+450-42-3339,D,Red Deer,Non-member,Male,Health and beauty,84.61,10.0,42.305,2019-02-09,18:58:00,Credit card,846.1,9.0
+146-09-5432,A,Calgary,Member,Male,Food and beverages,35.04,9.0,15.768,2019-02-09,19:17:00,Ewallet,315.36,
+866-05-7563,C,Edmonton,Member,Female,Electronic accessories,81.4,3.0,12.21,2019-02-09,19:43:00,Cash,244.2,5.0
+747-58-7183,C,Edmonton,Non-member,Male,Fashion accessories,57.27,3.0,8.5905,2019-02-09,20:31:00,Ewallet,171.81,
+811-03-8790,A,Calgary,Non-member,Female,Electronic accessories,45.48,10.0,22.74,2019-03-01,10:22:00,Credit card,454.8,5.0
+470-31-3286,C,Edmonton,Non-member,Male,Health and beauty,14.82,3.0,2.223,2019-03-01,11:30:00,Credit card,44.46,
+207-73-1363,C,Edmonton,Non-member,,Health and beauty,69.51,2.0,6.951,2019-03-01,12:15:00,Ewallet,139.02,
+189-98-2939,D,Red Deer,Non-member,Male,Fashion accessories,78.55,9.0,35.3475,2019-03-01,13:22:00,Cash,706.95,7.0
+153-58-4872,D,Red Deer,Member,Female,Food and beverages,74.89,4.0,14.978,2019-03-01,15:32:00,Ewallet,299.56,
+453-63-6187,C,Edmonton,Non-member,,Electronic accessories,27.5,3.0,4.125,2019-03-01,15:40:00,Ewallet,82.5,6.0
+247-11-2470,A,Calgary,Member,Female,Fashion accessories,22.32,4.0,4.464,2019-03-01,16:23:00,Credit card,89.28,4.0
+220-28-1851,A,Calgary,Non-member,Male,Home and lifestyle,34.73,2.0,3.473,2019-03-01,18:14:00,Ewallet,69.46,10.0
+339-96-8318,C,Edmonton,Member,Male,Fashion accessories,81.31,7.0,28.4585,2019-03-01,19:49:00,Ewallet,569.17,6.0
+238-45-6950,C,Edmonton,Member,Male,Food and beverages,53.72,1.0,2.686,2019-03-01,20:03:00,Ewallet,53.72,
+189-17-4241,A,Calgary,Non-member,Female,Food and beverages,87.67,2.0,8.767,2019-03-10,12:17:00,Credit card,175.34,10.0
+607-65-2441,D,Red Deer,Member,Male,Health and beauty,81.95,10.0,40.975,2019-03-10,12:39:00,Credit card,819.5,6.0
+596-42-3999,C,Edmonton,Non-member,Male,Food and beverages,18.22,7.0,6.377,2019-03-10,14:04:00,Credit card,127.54,7.0
+246-55-6923,D,Red Deer,Member,Female,Home and lifestyle,35.79,9.0,16.1055,2019-03-10,15:06:00,Credit card,322.11,5.0
+453-12-7053,D,Red Deer,Non-member,Male,Fashion accessories,45.74,3.0,6.861,2019-03-10,17:38:00,Credit card,137.22,
+156-20-0370,C,Edmonton,Non-member,Female,Electronic accessories,25.45,1.0,1.2725,2019-03-10,18:10:00,Credit card,25.45,5.0
+668-90-8900,A,Calgary,Non-member,Female,Home and lifestyle,93.69,7.0,32.7915,2019-03-10,18:44:00,Credit card,655.83,10.0
+696-90-2548,A,Calgary,Non-member,Male,Sports and travel,25.84,3.0,3.876,2019-03-10,18:55:00,Ewallet,77.52,7.0
+790-29-1172,C,Edmonton,Non-member,Female,Food and beverages,57.34,3.0,8.601,2019-03-10,18:59:00,Credit card,172.02,8.0
+129-29-8530,B,Calgary,Member,Male,Sports and travel,62.62,5.0,15.655,2019-03-10,19:15:00,Ewallet,313.1,7.0
+239-48-4278,B,Calgary,Member,Male,Food and beverages,10.13,7.0,3.5455,2019-03-10,19:35:00,Ewallet,70.91,
+745-74-0715,B,Calgary,Non-member,Male,Electronic accessories,58.03,2.0,5.803,2019-03-10,20:46:00,Ewallet,116.06,9.0
+656-95-9349,B,Calgary,Member,Female,Health and beauty,68.93,7.0,24.1255,2019-03-11,11:03:00,Credit card,482.51,
+448-81-5016,A,Calgary,Non-member,Male,Health and beauty,59.77,2.0,5.977,2019-03-11,12:01:00,Credit card,119.54,6.0
+749-81-8133,A,Calgary,Non-member,Female,Fashion accessories,94.67,4.0,18.934,2019-03-11,12:04:00,Cash,378.68,
+721-86-6247,A,Calgary,Non-member,Female,Home and lifestyle,63.42,8.0,25.368,2019-03-11,12:55:00,Ewallet,507.36,7.0
+892-05-6689,A,Calgary,Non-member,,Home and lifestyle,28.32,5.0,7.08,2019-03-11,13:28:00,Ewallet,141.6,6.0
+689-16-9784,D,Red Deer,Non-member,Male,Food and beverages,46.77,6.0,14.031,2019-03-11,13:37:00,Cash,280.62,6.0
+319-50-3348,C,Edmonton,Non-member,Female,Home and lifestyle,40.3,2.0,4.03,2019-03-11,15:30:00,Ewallet,80.6,
+891-58-8335,C,Edmonton,Member,Female,Sports and travel,29.61,7.0,10.3635,2019-03-11,15:53:00,Cash,207.27,3.0
+584-86-7256,D,Red Deer,Member,Male,Sports and travel,34.56,7.0,12.096,2019-03-11,16:07:00,Credit card,241.92,7.0
+704-20-4138,D,Red Deer,Member,Female,Health and beauty,29.67,7.0,10.3845,2019-03-11,18:58:00,Credit card,207.69,
+214-30-2776,C,Edmonton,Member,Female,Electronic accessories,34.49,5.0,8.6225,2019-03-11,19:44:00,Credit card,172.45,9.0
+427-45-9297,C,Edmonton,Member,Female,Home and lifestyle,40.73,7.0,14.2555,2019-03-12,11:01:00,Ewallet,285.11,2.0
+152-08-9985,C,Edmonton,Member,Male,Health and beauty,64.36,9.0,28.962,2019-03-12,12:09:00,Credit card,579.24,9.0
+253-12-6086,A,Calgary,Member,Female,Sports and travel,98.4,7.0,34.44,2019-03-12,12:43:00,Credit card,688.8,9.0
+545-46-3100,C,Edmonton,Member,Female,Electronic accessories,10.59,3.0,1.5885,2019-03-12,13:52:00,Credit card,31.77,9.0
+565-17-3836,B,Calgary,Member,Female,Health and beauty,47.67,4.0,9.534,2019-03-12,14:21:00,Cash,190.68,9.0
+719-76-3868,D,Red Deer,Member,Male,Food and beverages,94.26,4.0,18.852,2019-03-12,16:30:00,Cash,377.04,9.0
+573-10-3877,C,Edmonton,Member,Male,Health and beauty,39.01,1.0,1.9505,2019-03-12,16:46:00,Credit card,39.01,
+266-20-6657,A,Calgary,Member,Male,Food and beverages,55.04,7.0,19.264,2019-03-12,19:39:00,Ewallet,385.28,5.0
+276-54-0879,C,Edmonton,Non-member,Male,Sports and travel,97.74,4.0,19.548,2019-03-12,19:53:00,Ewallet,390.96,6.0
+699-01-4164,D,Red Deer,Non-member,Male,Health and beauty,41.5,4.0,8.3,2019-03-12,19:58:00,Credit card,166.0,8.0
+651-61-0874,D,Red Deer,Non-member,Male,Home and lifestyle,46.22,4.0,9.244,2019-03-12,20:04:00,Credit card,184.88,6.0
+120-06-4233,D,Red Deer,Non-member,Male,Electronic accessories,30.61,6.0,9.183,2019-03-12,20:36:00,Cash,183.66,9.0
+585-03-5943,C,Edmonton,Non-member,Male,Health and beauty,18.11,10.0,9.055,2019-03-13,11:46:00,Ewallet,181.1,6.0
+137-74-8729,D,Red Deer,Non-member,Female,Fashion accessories,12.19,8.0,4.876,2019-03-13,12:47:00,Ewallet,97.52,7.0
+173-57-2300,D,Red Deer,Member,Male,Sports and travel,0.0,0.0,0.0,2019-03-13,12:51:00,Cash,0.0,0.0
+316-01-3952,B,Calgary,Non-member,Female,Food and beverages,54.27,5.0,13.5675,2019-03-13,14:16:00,Ewallet,271.35,5.0
+584-66-4073,D,Red Deer,Non-member,Male,Fashion accessories,56.5,1.0,2.825,2019-03-13,15:45:00,Ewallet,56.5,10.0
+877-22-3308,A,Calgary,Member,Male,Health and beauty,15.87,10.0,7.935,2019-03-13,16:40:00,Cash,158.7,6.0
+655-85-5130,C,Edmonton,Member,Female,Fashion accessories,38.3,4.0,7.66,2019-03-13,19:22:00,Cash,153.2,6.0
+101-17-6199,B,Calgary,Non-member,Male,Food and beverages,45.79,7.0,16.0265,2019-03-13,19:44:00,Credit card,320.53,7.0
+686-41-0932,C,Edmonton,Non-member,Female,Fashion accessories,34.7,2.0,3.47,2019-03-13,19:48:00,Ewallet,69.4,8.0
+336-78-2147,D,Red Deer,Member,Male,Home and lifestyle,63.91,8.0,25.564,2019-03-13,19:52:00,Credit card,511.28,5.0
+379-17-6588,D,Red Deer,Non-member,Male,Fashion accessories,59.61,10.0,29.805,2019-03-14,11:07:00,Cash,596.1,
+210-30-7976,C,Edmonton,Member,Female,Food and beverages,22.32,4.0,4.464,2019-03-14,11:16:00,Ewallet,89.28,4.0
+442-48-3607,B,Calgary,Member,Male,Food and beverages,23.48,2.0,2.348,2019-03-14,11:21:00,Credit card,46.96,8.0
+189-52-0236,A,Calgary,Non-member,Male,Electronic accessories,99.55,7.0,34.8425,2019-03-14,12:07:00,Cash,696.85,8.0
+174-75-0888,C,Edmonton,Non-member,Male,Electronic accessories,21.58,9.0,9.711,2019-03-14,12:32:00,Cash,194.22,7.0
+457-12-0244,D,Red Deer,Member,Female,Sports and travel,35.22,6.0,10.566,2019-03-14,13:49:00,Ewallet,211.32,6.0
+169-52-4504,B,Calgary,Non-member,Female,Electronic accessories,15.69,3.0,2.3535,2019-03-14,14:13:00,Credit card,47.07,6.0
+139-32-4183,A,Calgary,Member,Female,Sports and travel,97.48,9.0,43.866,2019-03-14,14:19:00,Ewallet,877.32,9.0
+628-90-8624,C,Edmonton,Member,Male,Health and beauty,82.58,10.0,41.29,2019-03-14,14:41:00,Cash,825.8,5.0
+722-13-2115,D,Red Deer,Member,Male,Sports and travel,42.85,1.0,2.1425,2019-03-14,15:36:00,Credit card,42.85,9.0
+499-27-7781,C,Edmonton,Non-member,Female,Food and beverages,53.21,8.0,21.284,2019-03-14,16:45:00,Ewallet,425.68,
+558-80-4082,A,Calgary,Non-member,Male,Electronic accessories,27.85,7.0,9.7475,2019-03-14,17:20:00,Ewallet,194.95,
+808-65-0703,D,Red Deer,Non-member,Male,Home and lifestyle,35.47,4.0,7.094,2019-03-14,17:22:00,Credit card,141.88,7.0
+730-70-9830,A,Calgary,Non-member,Female,Home and lifestyle,70.11,6.0,21.033,2019-03-14,17:54:00,Ewallet,420.66,5.0
+840-19-2096,D,Red Deer,Member,Male,Electronic accessories,87.91,5.0,21.9775,2019-03-14,18:10:00,Ewallet,439.55,
+115-99-4379,C,Edmonton,Member,Female,Fashion accessories,54.73,7.0,19.1555,2019-03-14,19:02:00,Credit card,383.11,8.0
+122-61-9553,D,Red Deer,Non-member,Female,Electronic accessories,51.32,9.0,23.094,2019-03-14,19:33:00,Cash,461.88,6.0
+373-09-4567,D,Red Deer,Non-member,Male,Food and beverages,77.56,10.0,38.78,2019-03-14,20:35:00,Ewallet,775.6,
+595-11-5460,A,Calgary,Non-member,Male,Health and beauty,96.58,2.0,9.658,2019-03-15,10:12:00,Credit card,193.16,
+760-54-1821,C,Edmonton,Non-member,,Home and lifestyle,13.59,9.0,6.1155,2019-03-15,10:26:00,Cash,122.31,6.0
+359-94-5395,C,Edmonton,Non-member,,Health and beauty,92.78,1.0,4.639,2019-03-15,10:50:00,Credit card,92.78,10.0
+542-41-0513,C,Edmonton,Member,Female,Electronic accessories,57.49,4.0,11.498,2019-03-15,11:57:00,Cash,229.96,7.0
+273-16-6619,C,Edmonton,Non-member,Male,Home and lifestyle,33.2,2.0,3.32,2019-03-15,12:20:00,Credit card,66.4,
+585-11-6748,C,Edmonton,Member,Male,Sports and travel,96.8,3.0,14.52,2019-03-15,13:05:00,Cash,290.4,5.0
+154-87-7367,D,Red Deer,Non-member,Male,Home and lifestyle,65.26,8.0,26.104,2019-03-15,14:04:00,Ewallet,522.08,6.0
+565-91-4567,C,Edmonton,Non-member,Male,Health and beauty,10.75,8.0,4.3,2019-03-15,14:38:00,Ewallet,86.0,6.0
+361-59-0574,C,Edmonton,Member,Male,Sports and travel,90.53,8.0,36.212,2019-03-15,14:48:00,Credit card,724.24,3.0
+848-62-7243,A,Calgary,Non-member,Male,Health and beauty,24.89,9.0,11.2005,2019-03-15,15:36:00,Cash,224.01,7.0
+605-83-1050,C,Edmonton,Non-member,,Food and beverages,27.18,2.0,2.718,2019-03-15,16:26:00,Ewallet,54.36,3.0
+510-09-5628,A,Calgary,Member,Female,Fashion accessories,19.66,10.0,9.83,2019-03-15,18:20:00,Credit card,196.6,7.0
+701-69-8742,C,Edmonton,Non-member,Male,Sports and travel,34.37,10.0,17.185,2019-03-16,10:11:00,Ewallet,343.7,7.0
+290-68-2984,B,Calgary,Non-member,Male,Home and lifestyle,23.75,4.0,4.75,2019-03-16,11:22:00,Cash,95.0,5.0
+727-17-0390,A,Calgary,Non-member,Female,Food and beverages,63.61,5.0,15.9025,2019-03-16,12:43:00,Ewallet,318.05,
+210-74-9613,A,Calgary,Non-member,Male,Fashion accessories,97.26,4.0,19.452,2019-03-16,15:33:00,Ewallet,389.04,7.0
+578-80-7669,C,Edmonton,Non-member,Male,Sports and travel,74.97,1.0,3.7485,2019-03-16,16:58:00,Cash,74.97,
+711-31-1234,C,Edmonton,Non-member,Female,Electronic accessories,95.64,4.0,19.128,2019-03-16,18:51:00,Cash,382.56,8.0
+286-43-6208,D,Red Deer,Non-member,Female,Food and beverages,87.8,9.0,39.51,2019-03-16,19:08:00,Cash,790.2,9.0
+575-30-8091,A,Calgary,Non-member,Male,Sports and travel,72.5,8.0,29.0,2019-03-16,19:25:00,Ewallet,580.0,9.0
+617-15-4209,D,Red Deer,Member,Male,Health and beauty,15.37,2.0,1.537,2019-03-16,19:47:00,Cash,30.74,7.0
+152-03-4217,C,Edmonton,Non-member,Female,Home and lifestyle,11.28,9.0,5.076,2019-03-17,11:55:00,Credit card,101.52,4.0
+642-30-6693,C,Edmonton,Non-member,Female,Sports and travel,54.51,6.0,16.353,2019-03-17,13:54:00,Ewallet,327.06,2.0
+220-68-6701,B,Calgary,Non-member,Female,Home and lifestyle,77.47,4.0,15.494,2019-03-17,16:36:00,Cash,309.88,4.0
+320-32-8842,D,Red Deer,Member,Female,Food and beverages,22.62,1.0,1.131,2019-03-17,18:58:00,Cash,22.62,
+662-47-5456,D,Red Deer,Member,Male,Fashion accessories,35.19,10.0,17.595,2019-03-17,19:06:00,Credit card,351.9,8.0
+880-46-5796,A,Calgary,Member,Male,Sports and travel,76.92,10.0,38.46,2019-03-17,19:53:00,Ewallet,769.2,6.0
+420-04-7590,C,Edmonton,Non-member,Male,Home and lifestyle,99.7,3.0,14.955,2019-03-18,11:29:00,Ewallet,299.1,5.0
+776-68-1096,C,Edmonton,Non-member,Male,Home and lifestyle,44.12,3.0,6.618,2019-03-18,13:45:00,Credit card,132.36,3.0
+256-58-3609,D,Red Deer,Member,,Fashion accessories,91.98,1.0,4.599,2019-03-18,15:29:00,Cash,91.98,10.0
+413-20-6708,D,Red Deer,Member,Female,Fashion accessories,51.47,1.0,2.5735,2019-03-18,15:52:00,Ewallet,51.47,8.0
+485-30-8700,A,Calgary,Non-member,Female,Sports and travel,33.26,5.0,8.315,2019-03-18,16:10:00,Credit card,166.3,4.0
+439-54-7422,A,Calgary,Non-member,Female,Electronic accessories,51.19,4.0,10.238,2019-03-18,17:15:00,Credit card,204.76,5.0
+263-87-5680,D,Red Deer,Member,Female,Home and lifestyle,28.53,10.0,14.265,2019-03-18,17:38:00,Ewallet,285.3,8.0
+831-07-6050,B,Calgary,Non-member,Male,Electronic accessories,32.71,5.0,8.1775,2019-03-19,11:30:00,Credit card,163.55,10.0
+737-88-5876,B,Calgary,Member,Male,Home and lifestyle,23.29,4.0,4.658,2019-03-19,11:52:00,Credit card,93.16,6.0
+318-81-2368,D,Red Deer,Non-member,Female,Electronic accessories,46.2,1.0,2.31,2019-03-19,12:16:00,Cash,46.2,6.0
+568-90-5112,D,Red Deer,Non-member,Male,Health and beauty,66.14,4.0,13.228,2019-03-19,12:46:00,Credit card,264.56,6.0
+850-41-9669,A,Calgary,Non-member,Female,Electronic accessories,75.06,9.0,33.777,2019-03-19,13:25:00,Ewallet,675.54,6.0
+548-48-3156,A,Calgary,Member,Female,Food and beverages,83.34,2.0,8.334,2019-03-19,13:37:00,Cash,166.68,8.0
+701-23-5550,C,Edmonton,Member,Male,Home and lifestyle,38.81,4.0,7.762,2019-03-19,13:40:00,Ewallet,155.24,
+462-78-5240,D,Red Deer,Non-member,Female,Electronic accessories,26.61,2.0,2.661,2019-03-19,14:35:00,Cash,53.22,4.0
+593-08-5916,B,Calgary,Non-member,Female,Fashion accessories,15.5,1.0,0.775,2019-03-19,15:23:00,Credit card,15.5,7.0
+155-45-3814,D,Red Deer,Member,Female,Electronic accessories,88.55,8.0,35.42,2019-03-19,15:29:00,Ewallet,708.4,5.0
+898-04-2717,A,Calgary,Non-member,Male,Fashion accessories,76.4,9.0,34.38,2019-03-19,15:49:00,Ewallet,687.6,8.0
+728-88-7867,D,Red Deer,Member,Female,Home and lifestyle,75.53,4.0,15.106,2019-03-19,15:52:00,Ewallet,302.12,8.0
+574-22-5561,D,Red Deer,Member,Female,Fashion accessories,82.63,10.0,41.315,2019-03-19,17:08:00,Ewallet,826.3,8.0
+716-39-1409,C,Edmonton,Non-member,Male,Health and beauty,30.35,7.0,10.6225,2019-03-19,18:19:00,Cash,212.45,
+751-69-0068,D,Red Deer,Non-member,Male,Sports and travel,99.24,9.0,44.658,2019-03-19,19:09:00,Ewallet,893.16,9.0
+301-81-8610,C,Edmonton,Member,Male,Fashion accessories,25.42,8.0,10.168,2019-03-19,19:42:00,Credit card,203.36,7.0
+878-30-2331,D,Red Deer,Member,Female,Sports and travel,54.55,10.0,27.275,2019-03-02,11:22:00,Credit card,545.5,7.0
+636-98-3364,C,Edmonton,Member,Female,Electronic accessories,26.26,3.0,3.939,2019-03-02,12:36:00,Ewallet,78.78,6.0
+640-48-5028,C,Edmonton,Member,,Home and lifestyle,88.39,9.0,39.7755,2019-03-02,12:40:00,Cash,795.51,2.0
+225-98-1496,D,Red Deer,Non-member,Female,Food and beverages,27.02,3.0,4.053,2019-03-02,13:01:00,Credit card,81.06,
+576-31-4774,C,Edmonton,Non-member,Female,Health and beauty,73.41,3.0,11.0115,2019-03-02,13:10:00,Ewallet,220.23,4.0
+725-54-0677,A,Calgary,Member,Male,Health and beauty,85.6,7.0,29.96,2019-03-02,13:50:00,Cash,599.2,10.0
+565-67-6697,C,Edmonton,Member,Male,Home and lifestyle,27.0,9.0,12.15,2019-03-02,14:16:00,Cash,243.0,5.0
+860-73-6466,A,Calgary,Member,Female,Sports and travel,39.47,2.0,3.947,2019-03-02,16:16:00,Credit card,78.94,5.0
+607-76-6216,A,Calgary,Member,Female,Fashion accessories,92.49,5.0,23.1225,2019-03-02,16:35:00,Credit card,462.45,9.0
+408-26-9866,D,Red Deer,Non-member,Female,Sports and travel,73.98,7.0,25.893,2019-03-02,16:42:00,Ewallet,517.86,4.0
+303-96-2227,C,Edmonton,Non-member,Female,Home and lifestyle,97.38,10.0,48.69,2019-03-02,17:16:00,Ewallet,973.8,10.0
+549-59-1358,A,Calgary,Member,Male,Sports and travel,88.63,3.0,13.2945,2019-03-02,17:36:00,Ewallet,265.89,6.0
+720-72-2436,B,Calgary,Non-member,Male,Food and beverages,66.52,4.0,13.304,2019-03-02,18:14:00,Ewallet,266.08,7.0
+172-42-8274,C,Edmonton,Non-member,Female,Electronic accessories,38.27,2.0,3.827,2019-03-02,18:18:00,Credit card,76.54,6.0
+346-84-3103,C,Edmonton,Member,Female,Electronic accessories,13.22,5.0,3.305,2019-03-02,19:26:00,Cash,66.1,4.0
+825-94-5922,C,Edmonton,Non-member,Male,Sports and travel,25.31,2.0,2.531,2019-03-02,19:26:00,Ewallet,50.62,7.0
+817-69-8206,C,Edmonton,Non-member,Female,Electronic accessories,99.73,9.0,44.8785,2019-03-02,19:42:00,Credit card,897.57,9.0
+883-17-4236,D,Red Deer,Non-member,Female,Sports and travel,14.39,2.0,1.439,2019-03-02,19:44:00,Credit card,28.78,
+451-28-5717,D,Red Deer,Member,Female,Home and lifestyle,83.17,6.0,24.951,2019-03-20,11:23:00,Cash,499.02,7.0
+805-86-0265,A,Calgary,Non-member,Male,Home and lifestyle,93.96,9.0,42.282,2019-03-20,11:32:00,Cash,845.64,9.0
+509-29-3912,A,Calgary,Member,Female,Sports and travel,38.72,9.0,17.424,2019-03-20,12:24:00,Ewallet,348.48,4.0
+514-37-2845,C,Edmonton,Non-member,Male,Fashion accessories,99.25,2.0,9.925,2019-03-20,13:02:00,Cash,198.5,9.0
+650-98-6268,C,Edmonton,Member,Female,Food and beverages,20.87,3.0,3.1305,2019-03-20,13:53:00,Credit card,62.61,8.0
+632-32-4574,C,Edmonton,Non-member,Male,Sports and travel,75.92,8.0,30.368,2019-03-20,14:14:00,Cash,607.36,6.0
+760-90-2357,A,Calgary,Member,Male,Electronic accessories,74.51,6.0,22.353,2019-03-20,15:08:00,Ewallet,447.06,5.0
+213-72-6612,A,Calgary,Non-member,,Food and beverages,43.25,2.0,4.325,2019-03-20,15:56:00,Cash,86.5,6.0
+537-72-0426,D,Red Deer,Member,Male,Fashion accessories,70.99,10.0,35.495,2019-03-20,16:28:00,Cash,709.9,6.0
+102-06-2002,D,Red Deer,Member,Male,Sports and travel,25.25,5.0,6.3125,2019-03-20,17:52:00,Cash,126.25,6.0
+142-63-6033,C,Edmonton,Non-member,Male,Home and lifestyle,92.36,5.0,23.09,2019-03-20,19:17:00,Ewallet,461.8,5.0
+182-88-2763,C,Edmonton,Member,Male,Food and beverages,79.91,3.0,11.9865,2019-03-20,19:28:00,Credit card,239.73,5.0
+436-54-4512,A,Calgary,Member,Female,Food and beverages,91.61,1.0,4.5805,2019-03-20,19:44:00,Cash,91.61,
+574-31-8277,C,Edmonton,Member,Male,Fashion accessories,33.63,1.0,1.6815,2019-03-20,19:55:00,Cash,33.63,
+828-61-5674,A,Calgary,Member,Male,Sports and travel,44.02,10.0,22.01,2019-03-20,19:57:00,Credit card,440.2,10.0
+527-09-6272,B,Calgary,Member,Female,Electronic accessories,28.45,5.0,7.1125,2019-03-21,10:17:00,Credit card,142.25,9.0
+512-98-1403,A,Calgary,Member,Female,Electronic accessories,26.48,3.0,3.972,2019-03-21,10:40:00,Ewallet,79.44,5.0
+438-01-4015,C,Edmonton,Member,Female,Sports and travel,49.49,4.0,9.898,2019-03-21,15:25:00,Ewallet,197.96,7.0
+448-61-3783,A,Calgary,Non-member,,Electronic accessories,90.02,8.0,36.008,2019-03-21,16:08:00,Credit card,720.16,4.0
+827-26-2100,A,Calgary,Member,Male,Home and lifestyle,33.84,9.0,15.228,2019-03-21,16:21:00,Ewallet,304.56,9.0
+500-02-2261,D,Red Deer,Non-member,Female,Food and beverages,57.29,6.0,17.187,2019-03-21,17:04:00,Ewallet,343.74,6.0
+674-56-6360,A,Calgary,Non-member,Male,Electronic accessories,95.15,1.0,4.7575,2019-03-22,14:00:00,Cash,95.15,6.0
+550-84-8664,B,Calgary,Non-member,Male,Sports and travel,85.91,5.0,21.4775,2019-03-22,14:33:00,Credit card,429.55,9.0
+616-24-2851,C,Edmonton,Member,Female,Fashion accessories,17.87,4.0,3.574,2019-03-22,14:42:00,Ewallet,71.48,6.0
+802-43-8934,A,Calgary,Non-member,Male,Home and lifestyle,18.28,1.0,0.914,2019-03-22,15:05:00,Credit card,18.28,8.0
+554-53-3790,C,Edmonton,Non-member,,Sports and travel,37.02,6.0,11.106,2019-03-22,18:33:00,Cash,222.12,4.0
+886-18-2897,B,Calgary,Non-member,Female,Food and beverages,56.56,5.0,14.14,2019-03-22,19:06:00,Credit card,282.8,4.0
+227-03-5010,A,Calgary,Member,Female,Home and lifestyle,52.59,8.0,21.036,2019-03-22,19:20:00,Credit card,420.72,8.0
+394-30-3170,C,Edmonton,Member,Female,Sports and travel,88.43,8.0,35.372,2019-03-22,19:35:00,Credit card,707.44,4.0
+472-15-9636,A,Calgary,Non-member,Male,Home and lifestyle,50.93,8.0,20.372,2019-03-22,19:36:00,Ewallet,407.44,9.0
+630-74-5166,A,Calgary,Non-member,Male,Sports and travel,62.13,6.0,18.639,2019-03-22,20:19:00,Cash,372.78,7.0
+856-22-8149,B,Calgary,Non-member,Female,Home and lifestyle,25.29,1.0,1.2645,2019-03-23,10:13:00,Ewallet,25.29,6.0
+865-92-6136,A,Calgary,Non-member,Male,Food and beverages,52.75,3.0,7.9125,2019-03-23,10:16:00,Ewallet,158.25,10.0
+851-28-6367,A,Calgary,Member,Male,Sports and travel,15.5,10.0,7.75,2019-03-23,10:55:00,Ewallet,155.0,8.0
+733-29-1227,D,Red Deer,Non-member,Male,Home and lifestyle,55.61,7.0,19.4635,2019-03-23,12:41:00,Cash,389.27,
+884-80-6021,B,Calgary,Member,Female,Electronic accessories,73.47,10.0,36.735,2019-03-23,13:14:00,Ewallet,734.7,10.0
+474-33-8305,D,Red Deer,Member,Male,Fashion accessories,67.39,7.0,23.5865,2019-03-23,13:23:00,Ewallet,471.73,7.0
+333-73-7901,D,Red Deer,Non-member,Female,Health and beauty,54.92,8.0,21.968,2019-03-23,13:24:00,Ewallet,439.36,
+386-27-7606,A,Calgary,Member,Female,Home and lifestyle,81.2,7.0,28.42,2019-03-23,15:59:00,Credit card,568.4,8.0
+795-49-7276,A,Calgary,Non-member,,Fashion accessories,37.15,4.0,7.43,2019-03-23,18:59:00,Ewallet,148.6,8.0
+407-63-8975,A,Calgary,Non-member,Male,Food and beverages,73.88,6.0,22.164,2019-03-23,19:16:00,Ewallet,443.28,4.0
+608-96-3517,C,Edmonton,Member,Female,Fashion accessories,91.54,4.0,18.308,2019-03-23,19:20:00,Credit card,366.16,5.0
+468-88-0009,B,Calgary,Member,Male,Home and lifestyle,65.94,4.0,13.188,2019-03-24,10:29:00,Cash,263.76,6.0
+588-01-7461,D,Red Deer,Non-member,Female,Food and beverages,33.98,9.0,15.291,2019-03-24,10:43:00,Cash,305.82,4.0
+641-62-7288,C,Edmonton,Non-member,Male,Home and lifestyle,99.92,6.0,29.976,2019-03-24,13:33:00,Ewallet,599.52,7.0
+835-16-0096,D,Red Deer,Member,Male,Sports and travel,14.7,5.0,3.675,2019-03-24,13:48:00,Ewallet,73.5,8.0
+851-98-3555,C,Edmonton,Non-member,Female,Health and beauty,82.88,5.0,20.72,2019-03-24,14:08:00,Credit card,414.4,7.0
+334-64-2006,A,Calgary,Member,Female,Home and lifestyle,70.32,2.0,,2019-03-24,14:22:00,Ewallet,140.64,10.0
+593-95-4461,D,Red Deer,Member,Male,Home and lifestyle,74.86,1.0,3.743,2019-03-24,14:49:00,Cash,74.86,7.0
+118-62-1812,D,Red Deer,Member,,Home and lifestyle,78.38,4.0,15.676,2019-03-24,17:56:00,Cash,313.52,8.0
+725-67-2480,C,Edmonton,Member,Female,Fashion accessories,58.75,6.0,17.625,2019-03-24,18:14:00,Credit card,352.5,2.0
+560-30-5617,C,Edmonton,Non-member,Female,Sports and travel,24.77,5.0,6.1925,2019-03-24,18:27:00,Cash,123.85,8.0
+538-22-0304,D,Red Deer,Non-member,Male,Electronic accessories,64.95,10.0,32.475,2019-03-24,18:27:00,Cash,649.5,5.0
+362-58-8315,D,Red Deer,Non-member,Male,Fashion accessories,76.52,5.0,19.13,2019-03-25,10:23:00,Cash,382.6,10.0
+340-66-0321,B,Calgary,Member,Male,Electronic accessories,36.36,4.0,7.272,2019-03-25,13:07:00,Cash,145.44,
+156-95-3964,A,Calgary,Non-member,Female,Food and beverages,55.39,4.0,11.078,2019-03-25,15:19:00,Ewallet,221.56,8.0
+366-43-6862,C,Edmonton,Non-member,Male,Electronic accessories,52.89,4.0,10.578,2019-03-25,16:32:00,Ewallet,211.56,7.0
+282-35-2475,C,Edmonton,Non-member,Female,Sports and travel,93.31,2.0,9.331,2019-03-25,17:53:00,Cash,186.62,6.0
+605-03-2706,A,Calgary,Non-member,Female,Health and beauty,15.8,3.0,2.37,2019-03-25,18:02:00,Cash,47.4,
+699-14-3026,D,Red Deer,Non-member,Male,Electronic accessories,85.39,7.0,29.8865,2019-03-25,18:30:00,Ewallet,597.73,4.0
+134-75-2619,A,Calgary,Member,,Electronic accessories,19.32,7.0,6.762,2019-03-25,18:51:00,Cash,135.24,7.0
+110-05-6330,A,Calgary,Non-member,,Food and beverages,39.43,6.0,11.829,2019-03-25,20:18:00,Credit card,236.58,9.0
+236-27-1144,D,Red Deer,Non-member,Female,Food and beverages,16.31,9.0,7.3395,2019-03-26,10:31:00,Ewallet,146.79,8.0
+734-91-1155,C,Edmonton,Non-member,Female,Electronic accessories,45.71,3.0,6.8565,2019-03-26,10:34:00,Credit card,137.13,
+449-27-2918,C,Edmonton,Member,Female,Sports and travel,39.12,1.0,1.956,2019-03-26,11:02:00,Credit card,39.12,2.0
+587-73-4862,B,Calgary,Member,Female,Health and beauty,10.69,5.0,2.6725,2019-03-26,11:07:00,Ewallet,53.45,
+797-88-0493,A,Calgary,Non-member,Female,Health and beauty,64.27,4.0,12.854,2019-03-26,13:54:00,Cash,257.08,8.0
+859-97-6048,D,Red Deer,Member,Male,Electronic accessories,84.25,2.0,8.425,2019-03-26,14:13:00,Credit card,168.5,5.0
+848-24-9445,D,Red Deer,Member,Male,Health and beauty,43.7,2.0,4.37,2019-03-26,18:03:00,Cash,87.4,5.0
+760-53-9233,B,Calgary,Member,Male,Fashion accessories,41.28,3.0,6.192,2019-03-26,18:37:00,Credit card,123.84,8.0
+163-56-7055,D,Red Deer,Member,Male,Fashion accessories,48.71,1.0,2.4355,2019-03-26,19:20:00,Cash,48.71,4.0
+487-79-6868,C,Edmonton,Member,Female,Home and lifestyle,12.29,9.0,5.5305,2019-03-26,19:28:00,Credit card,110.61,3.0
+807-34-3742,A,Calgary,Non-member,Male,Fashion accessories,52.38,1.0,2.619,2019-03-26,19:44:00,Cash,52.38,6.0
+411-77-0180,A,Calgary,Member,,Electronic accessories,72.2,7.0,25.27,2019-03-26,20:14:00,Ewallet,505.4,4.0
+595-94-9924,B,Calgary,Member,Female,Health and beauty,27.73,5.0,6.9325,2019-03-26,20:21:00,Credit card,138.65,4.0
+702-83-5291,D,Red Deer,Member,Male,Fashion accessories,99.82,9.0,44.919,2019-03-27,10:43:00,Cash,898.38,9.0
+106-35-6779,A,Calgary,Member,,Home and lifestyle,44.34,2.0,4.434,2019-03-27,11:26:00,Cash,88.68,6.0
+238-49-0436,A,Calgary,Non-member,Male,Health and beauty,32.46,8.0,12.984,2019-03-27,13:48:00,Credit card,259.68,
+278-86-2735,A,Calgary,Non-member,Female,Food and beverages,52.34,3.0,7.851,2019-03-27,14:03:00,Cash,157.02,
+794-32-2436,C,Edmonton,Member,Male,Electronic accessories,55.67,2.0,5.567,2019-03-27,15:08:00,Ewallet,111.34,6.0
+186-71-5196,A,Calgary,Member,Female,Food and beverages,79.54,2.0,7.954,2019-03-27,16:30:00,Ewallet,159.08,6.0
+176-64-7711,C,Edmonton,Non-member,Male,Food and beverages,32.32,3.0,,2019-03-27,19:11:00,Credit card,96.96,4.0
+423-57-2993,C,Edmonton,Non-member,Male,Sports and travel,93.39,6.0,28.017,2019-03-27,19:18:00,Ewallet,560.34,10.0
+313-66-9943,C,Edmonton,Member,Female,Food and beverages,29.15,3.0,4.3725,2019-03-27,20:29:00,Credit card,87.45,7.0
+633-44-8566,A,Calgary,Member,Male,Food and beverages,49.38,7.0,17.283,2019-03-27,20:35:00,Credit card,345.66,7.0
+633-09-3463,D,Red Deer,Non-member,Female,Electronic accessories,47.65,3.0,7.1475,2019-03-28,12:58:00,Credit card,142.95,10.0
+573-58-9734,C,Edmonton,Non-member,,Fashion accessories,30.37,3.0,4.5555,2019-03-28,13:41:00,Ewallet,91.11,5.0
+266-76-6436,D,Red Deer,Member,Female,Food and beverages,38.6,3.0,5.79,2019-03-28,13:57:00,Ewallet,115.8,8.0
+420-97-3340,A,Calgary,Non-member,,Food and beverages,71.68,3.0,10.752,2019-03-28,15:30:00,Credit card,215.04,9.0
+470-32-9057,B,Calgary,Member,Male,Food and beverages,51.34,5.0,12.835,2019-03-28,15:31:00,Credit card,256.7,
+857-16-3520,B,Calgary,Member,Female,Fashion accessories,71.46,7.0,25.011,2019-03-28,16:06:00,Ewallet,500.22,
+212-62-1842,B,Calgary,Non-member,Male,Food and beverages,58.26,6.0,17.478,2019-03-28,16:44:00,Cash,349.56,10.0
+531-80-1784,B,Calgary,Non-member,Male,Electronic accessories,26.02,7.0,9.107,2019-03-28,17:38:00,Cash,182.14,
+544-32-5024,D,Red Deer,Member,,Food and beverages,49.79,4.0,9.958,2019-03-28,19:16:00,Credit card,199.16,6.0
+333-23-2632,B,Calgary,Member,Male,Health and beauty,10.08,7.0,3.528,2019-03-28,20:14:00,Cash,70.56,4.0
+766-85-7061,C,Edmonton,Non-member,Male,Health and beauty,87.87,10.0,43.935,2019-03-29,10:25:00,Ewallet,878.7,9.0
+186-79-9562,C,Edmonton,Non-member,Male,Health and beauty,71.77,7.0,25.1195,2019-03-29,14:06:00,Cash,502.39,2.0
+291-21-5991,C,Edmonton,Member,Male,Health and beauty,61.29,5.0,15.3225,2019-03-29,14:28:00,Cash,306.45,7.0
+727-75-6477,D,Red Deer,Non-member,Male,Electronic accessories,28.84,4.0,5.768,2019-03-29,14:44:00,Cash,115.36,6.0
+425-85-2085,C,Edmonton,Member,Male,Health and beauty,54.86,5.0,13.715,2019-03-29,16:48:00,Ewallet,274.3,10.0
+218-59-9410,A,Calgary,Member,Female,Home and lifestyle,72.42,3.0,10.863,2019-03-29,16:54:00,Ewallet,217.26,8.0
+267-62-7380,D,Red Deer,Member,Male,Electronic accessories,82.34,10.0,41.17,2019-03-29,19:12:00,Ewallet,823.4,4.0
+829-34-3910,B,Calgary,Non-member,Female,Health and beauty,71.38,10.0,35.69,2019-03-29,19:21:00,Cash,713.8,6.0
+302-15-2162,D,Red Deer,Member,Male,Health and beauty,46.53,6.0,13.959,2019-03-03,10:54:00,Credit card,279.18,4.0
+234-03-4040,C,Edmonton,Member,Female,Food and beverages,73.05,10.0,36.525,2019-03-03,12:25:00,Credit card,730.5,9.0
+777-82-7220,C,Edmonton,Member,Male,Home and lifestyle,30.12,8.0,12.048,2019-03-03,13:01:00,Cash,240.96,8.0
+631-41-3108,A,Calgary,Non-member,Male,Home and lifestyle,46.33,7.0,16.2155,2019-03-03,13:23:00,Credit card,324.31,
+211-05-0490,D,Red Deer,Member,Female,Electronic accessories,51.92,5.0,12.98,2019-03-03,13:42:00,Cash,259.6,8.0
+861-77-0145,D,Red Deer,Member,Male,Electronic accessories,81.97,10.0,40.985,2019-03-03,14:30:00,Cash,819.7,9.0
+568-88-3448,A,Calgary,Non-member,Male,Health and beauty,25.0,1.0,1.25,2019-03-03,15:09:00,Ewallet,25.0,
+175-54-2529,B,Calgary,Member,Male,Food and beverages,22.17,8.0,8.868,2019-03-03,17:01:00,Credit card,177.36,10.0
+468-99-7231,D,Red Deer,Non-member,Female,Home and lifestyle,44.01,8.0,17.604,2019-03-03,17:36:00,Cash,352.08,9.0
+305-14-0245,C,Edmonton,Member,Female,Home and lifestyle,94.49,8.0,37.796,2019-03-03,19:00:00,Ewallet,755.92,8.0
+733-33-4967,A,Calgary,Non-member,Male,Electronic accessories,20.85,8.0,8.34,2019-03-03,19:17:00,Cash,166.8,6.0
+324-41-6833,D,Red Deer,Member,Female,Electronic accessories,30.2,8.0,12.08,2019-03-03,19:30:00,Ewallet,241.6,5.0
+651-96-5970,B,Calgary,Non-member,Male,Fashion accessories,46.41,1.0,2.3205,2019-03-03,20:06:00,Credit card,46.41,4.0
+610-46-4100,A,Calgary,Non-member,Male,Health and beauty,28.95,7.0,10.1325,2019-03-03,20:31:00,Credit card,202.65,6.0
+361-85-2571,A,Calgary,Non-member,Female,Sports and travel,89.48,5.0,22.37,2019-03-30,10:18:00,Cash,447.4,7.0
+291-55-6563,A,Calgary,Member,Female,Home and lifestyle,34.42,6.0,10.326,2019-03-30,12:45:00,Ewallet,206.52,8.0
+115-38-7388,D,Red Deer,Member,,Fashion accessories,10.18,8.0,4.072,2019-03-30,12:51:00,Credit card,81.44,10.0
+286-01-5402,A,Calgary,Non-member,Female,Sports and travel,40.23,7.0,14.0805,2019-03-30,13:22:00,Cash,281.61,10.0
+743-04-1105,C,Edmonton,Member,Male,Health and beauty,97.22,9.0,43.749,2019-03-30,14:43:00,Ewallet,874.98,9.0
+778-89-7974,D,Red Deer,Non-member,Male,Health and beauty,70.21,6.0,21.063,2019-03-30,14:58:00,Cash,421.26,7.0
+642-61-4706,C,Edmonton,Member,Male,Food and beverages,93.4,2.0,9.34,2019-03-30,16:34:00,Cash,186.8,6.0
+676-39-6028,A,Calgary,Member,Female,Electronic accessories,64.44,5.0,16.11,2019-03-30,17:04:00,Cash,322.2,10.0
+731-59-7531,C,Edmonton,Member,Male,Health and beauty,72.57,8.0,29.028,2019-03-30,17:58:00,Cash,580.56,
+131-15-8856,D,Red Deer,Member,Female,Food and beverages,72.52,8.0,29.008,2019-03-30,19:26:00,Credit card,580.16,4.0
+364-34-2972,D,Red Deer,Member,Male,Electronic accessories,96.82,3.0,14.523,2019-03-30,20:37:00,Cash,290.46,7.0
+276-75-6884,A,Calgary,Non-member,Female,Health and beauty,68.71,3.0,10.3065,2019-03-04,10:05:00,Cash,206.13,9.0
+221-25-5073,A,Calgary,Non-member,Female,Food and beverages,74.66,4.0,14.932,2019-03-04,10:39:00,Cash,298.64,8.0
+586-25-0848,B,Calgary,Non-member,Female,Sports and travel,12.34,7.0,4.319,2019-03-04,11:19:00,Credit card,86.38,7.0
+759-29-9521,B,Calgary,Member,Female,Food and beverages,48.96,9.0,22.032,2019-03-04,11:27:00,Cash,440.64,8.0
+227-50-3718,B,Calgary,Non-member,Male,Health and beauty,14.62,5.0,3.655,2019-03-04,12:23:00,Cash,73.1,4.0
+689-05-1884,B,Calgary,Member,Male,Health and beauty,48.63,10.0,24.315,2019-03-04,12:44:00,Cash,486.3,9.0
+667-92-0055,A,Calgary,Member,Male,Health and beauty,99.83,6.0,29.949,2019-03-04,15:02:00,Ewallet,598.98,8.0
+558-60-5016,B,Calgary,Non-member,Female,Home and lifestyle,33.3,9.0,14.985,2019-03-04,15:27:00,Ewallet,299.7,
+320-49-6392,D,Red Deer,Non-member,Female,Electronic accessories,30.24,1.0,1.512,2019-03-04,15:44:00,Cash,30.24,8.0
+346-12-3257,C,Edmonton,Member,Male,Electronic accessories,19.24,9.0,8.658,2019-03-04,16:28:00,Cash,173.16,2.0
+256-08-8343,A,Calgary,Non-member,Female,Home and lifestyle,56.53,4.0,11.306,2019-03-04,19:48:00,Ewallet,226.12,10.0
+228-96-1411,D,Red Deer,Member,Female,Food and beverages,98.7,8.0,39.48,2019-03-04,20:39:00,Cash,789.6,
+371-85-5789,C,Edmonton,Non-member,Male,Health and beauty,87.98,3.0,13.197,2019-03-05,10:40:00,Ewallet,263.94,
+291-32-1427,C,Edmonton,Member,Male,Fashion accessories,21.94,5.0,5.485,2019-03-05,12:29:00,Ewallet,109.7,5.0
+793-10-3222,C,Edmonton,Member,Female,Health and beauty,41.06,6.0,12.318,2019-03-05,13:30:00,Credit card,246.36,8.0
+148-82-2527,D,Red Deer,Member,Female,Home and lifestyle,12.12,10.0,6.06,2019-03-05,13:44:00,Credit card,121.2,8.0
+730-50-9884,A,Calgary,Non-member,,Sports and travel,83.06,7.0,29.071,2019-03-05,14:31:00,Ewallet,581.42,
+829-49-1914,A,Calgary,Member,Female,Food and beverages,78.31,10.0,39.155,2019-03-05,16:24:00,Ewallet,783.1,7.0
+655-07-2265,B,Calgary,Non-member,Male,Electronic accessories,78.31,3.0,11.7465,2019-03-05,16:38:00,Ewallet,234.93,5.0
+755-12-3214,D,Red Deer,Member,Female,Fashion accessories,44.22,5.0,11.055,2019-03-05,17:07:00,Credit card,221.1,9.0
+848-42-2560,B,Calgary,Non-member,Female,Food and beverages,81.91,2.0,8.191,2019-03-05,17:43:00,Cash,163.82,8.0
+174-64-0215,C,Edmonton,Non-member,Male,Sports and travel,69.74,10.0,34.87,2019-03-05,17:49:00,Credit card,697.4,
+102-77-2261,D,Red Deer,Member,Male,Health and beauty,65.31,7.0,22.8585,2019-03-05,18:02:00,Credit card,457.17,4.0
+733-01-9107,C,Edmonton,Non-member,Male,Home and lifestyle,82.7,6.0,24.81,2019-03-05,18:14:00,Cash,496.2,7.0
+510-95-6347,C,Edmonton,Member,Female,Food and beverages,48.52,3.0,7.278,2019-03-05,18:17:00,Ewallet,145.56,4.0
+433-75-6987,C,Edmonton,Member,Female,Health and beauty,55.97,7.0,19.5895,2019-03-05,19:06:00,Ewallet,391.79,9.0
+593-14-4239,C,Edmonton,Non-member,Female,Home and lifestyle,95.46,8.0,38.184,2019-03-05,19:40:00,Ewallet,763.68,5.0
+895-66-0685,C,Edmonton,Member,Male,Food and beverages,18.08,3.0,,2019-03-05,19:46:00,Ewallet,54.24,2.0
+608-04-3797,C,Edmonton,Member,Female,Health and beauty,25.32,8.0,10.128,2019-03-05,20:24:00,Ewallet,202.56,2.0
+885-17-6250,B,Calgary,Non-member,,Health and beauty,79.74,1.0,3.987,2019-03-06,10:36:00,Ewallet,79.74,
+883-69-1285,C,Edmonton,Member,Male,Fashion accessories,49.92,2.0,4.992,2019-03-06,11:55:00,Credit card,99.84,2.0
+199-75-8169,A,Calgary,Member,Male,Sports and travel,15.81,10.0,7.905,2019-03-06,12:27:00,Credit card,158.1,9.0
+254-31-0042,B,Calgary,Member,Male,Electronic accessories,21.5,9.0,9.675,2019-03-06,12:46:00,Credit card,193.5,
+523-38-0215,D,Red Deer,Non-member,Male,Home and lifestyle,37.0,1.0,1.85,2019-03-06,13:29:00,Credit card,37.0,8.0
+468-01-2051,C,Edmonton,Non-member,Male,Food and beverages,62.08,7.0,21.728,2019-03-06,13:46:00,Ewallet,434.56,5.0
+262-47-2794,C,Edmonton,Member,Male,Home and lifestyle,71.86,8.0,28.744,2019-03-06,15:07:00,Credit card,574.88,6.0
+149-15-7606,C,Edmonton,Member,Male,Sports and travel,37.32,9.0,16.794,2019-03-06,15:31:00,Ewallet,335.88,5.0
+783-09-1637,C,Edmonton,Non-member,Female,Sports and travel,67.43,5.0,16.8575,2019-03-06,18:13:00,Ewallet,337.15,6.0
+802-70-5316,A,Calgary,Member,Female,Sports and travel,92.13,6.0,27.639,2019-03-06,20:34:00,Cash,552.78,8.0
+715-20-1673,C,Edmonton,Non-member,Male,Electronic accessories,28.38,5.0,7.095,2019-03-06,20:57:00,Cash,141.9,
+399-69-4630,A,Calgary,Non-member,Male,Electronic accessories,22.21,6.0,6.663,2019-03-07,10:23:00,Credit card,133.26,
+643-38-7867,A,Calgary,Non-member,Male,Home and lifestyle,97.94,1.0,4.897,2019-03-07,11:44:00,Ewallet,97.94,7.0
+242-55-6721,C,Edmonton,Non-member,Male,Home and lifestyle,16.16,2.0,1.616,2019-03-07,11:49:00,Ewallet,32.32,6.0
+423-64-4619,B,Calgary,Member,Female,Health and beauty,15.55,9.0,6.9975,2019-03-07,13:12:00,Cash,139.95,5.0
+307-85-2293,C,Edmonton,Non-member,Male,Home and lifestyle,50.28,5.0,12.57,2019-03-07,13:58:00,Ewallet,251.4,
+821-07-3596,D,Red Deer,Non-member,Female,Fashion accessories,16.45,4.0,3.29,2019-03-07,14:53:00,Ewallet,65.8,6.0
+598-47-9715,D,Red Deer,Non-member,Male,Electronic accessories,84.07,4.0,16.814,2019-03-07,16:54:00,Ewallet,336.28,4.0
+748-45-2862,B,Calgary,Member,Female,Home and lifestyle,28.31,4.0,5.662,2019-03-07,18:35:00,Cash,113.24,8.0
+471-41-2823,D,Red Deer,Non-member,Male,Food and beverages,99.79,2.0,9.979,2019-03-07,20:37:00,Ewallet,199.58,8.0
+226-31-3081,D,Red Deer,Non-member,Female,Electronic accessories,15.28,5.0,3.82,2019-03-08,10:29:00,Cash,76.4,10.0
+325-77-6186,A,Calgary,Member,Female,Home and lifestyle,90.65,10.0,45.325,2019-03-08,10:53:00,Ewallet,906.5,10.0
+563-91-7120,A,Calgary,Non-member,,Fashion accessories,61.77,5.0,15.4425,2019-03-08,13:21:00,Cash,308.85,7.0
+364-33-8584,C,Edmonton,Member,Female,Food and beverages,17.63,5.0,4.4075,2019-03-08,15:27:00,Cash,88.15,2.0
+345-08-4992,B,Calgary,Non-member,Male,Home and lifestyle,33.99,6.0,10.197,2019-03-08,15:37:00,Credit card,203.94,8.0
+483-71-1164,D,Red Deer,Non-member,Female,Health and beauty,81.3,6.0,24.39,2019-03-08,16:43:00,Ewallet,487.8,5.0
+574-57-9721,D,Red Deer,Non-member,Male,Food and beverages,43.27,2.0,4.327,2019-03-08,16:53:00,Ewallet,86.54,6.0
+458-41-1477,D,Red Deer,Non-member,Female,Health and beauty,46.26,6.0,13.878,2019-03-08,17:11:00,Credit card,277.56,10.0
+632-90-0281,D,Red Deer,Non-member,Female,Fashion accessories,37.55,10.0,18.775,2019-03-08,20:01:00,Credit card,375.5,
+549-96-4200,D,Red Deer,Member,Male,Food and beverages,17.04,4.0,3.408,2019-03-08,20:15:00,Ewallet,68.16,7.0
+594-34-4444,A,Calgary,Non-member,Male,Electronic accessories,97.16,1.0,4.858,2019-03-08,20:38:00,Ewallet,97.16,
+360-39-5055,A,Calgary,Member,Male,Sports and travel,48.91,5.0,12.2275,2019-03-09,10:17:00,Cash,244.55,7.0
+299-29-0180,C,Edmonton,Member,Female,Home and lifestyle,52.18,7.0,18.263,2019-03-09,10:54:00,Cash,365.26,9.0
+277-35-5865,D,Red Deer,Member,Female,Food and beverages,98.97,9.0,44.5365,2019-03-09,11:23:00,Cash,890.73,9.0
+816-57-2053,A,Calgary,Non-member,Male,Sports and travel,60.87,2.0,6.087,2019-03-09,12:37:00,Ewallet,121.74,9.0
+308-47-4913,B,Calgary,Member,Female,Sports and travel,52.26,10.0,26.13,2019-03-09,12:45:00,Credit card,522.6,6.0
+652-43-6591,A,Calgary,Non-member,Female,Food and beverages,97.29,8.0,38.916,2019-03-09,13:18:00,Credit card,778.32,6.0
+127-47-6963,B,Calgary,Non-member,Male,Health and beauty,51.71,4.0,10.342,2019-03-09,13:53:00,Credit card,206.84,10.0
+616-87-0016,C,Edmonton,Non-member,Male,Fashion accessories,95.54,7.0,33.439,2019-03-09,14:36:00,Credit card,668.78,10.0
+268-27-6179,C,Edmonton,Member,Female,Fashion accessories,56.47,8.0,22.588,2019-03-09,14:57:00,Ewallet,451.76,7.0
+489-64-4354,D,Red Deer,Non-member,Male,Food and beverages,16.28,1.0,0.814,2019-03-09,15:36:00,Cash,16.28,5.0
+529-56-3974,C,Edmonton,Member,Male,Electronic accessories,25.51,4.0,5.102,2019-03-09,17:03:00,Cash,102.04,
+219-22-9386,C,Edmonton,Member,Male,Sports and travel,99.96,9.0,44.982,2019-03-09,17:26:00,Credit card,899.64,9.0
+132-32-9879,C,Edmonton,Member,Female,Electronic accessories,93.96,4.0,18.792,2019-03-09,18:00:00,Cash,375.84,10.0
+841-35-6630,D,Red Deer,Non-member,Female,Electronic accessories,75.91,6.0,22.773,2019-03-09,18:21:00,Cash,455.46,
+157-13-5295,A,Calgary,Member,Male,Health and beauty,51.94,10.0,25.97,2019-03-09,18:24:00,Ewallet,519.4,6.0
+815-11-1168,A,Calgary,Member,Male,Food and beverages,99.78,5.0,24.945,2019-03-09,19:09:00,Cash,498.9,
+787-15-1757,D,Red Deer,Member,,Health and beauty,44.07,4.0,8.814,2019-02-18,16:28:00,Ewallet,176.28,8.0
+597-78-7908,A,Calgary,Non-member,Male,Food and beverages,90.22,3.0,13.533,2019-02-18,19:39:00,Cash,270.66,6.0
+278-97-7759,A,Calgary,Member,Female,Electronic accessories,62.48,1.0,3.124,2019-02-18,20:29:00,Cash,62.48,10.0
+127-47-6963,B,Calgary,Non-member,Male,Health and beauty,51.71,4.0,10.342,2019-03-09,13:53:00,Credit card,206.84,10.0
+,C,Edmonton,,,,,,,2019-03-09,,Credit card,,
