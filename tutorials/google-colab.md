@@ -14,12 +14,13 @@ Table of Contents
 
 ## Introduction
 
-**Google Colaboratory** (**Colab**) is a free cloud service provided by Google Research that enables you to write and execute Python code directly in your web browser. With Colab, you have access to GPUs and other computing resources for large-scale data analysis and machine learning. Since Colab is based on Jupyter, you can utilize numerous Python libraries and tools.
+**Google Colaboratory** (**Colab**) is a free cloud service provided by Google Research that allows you to write and execute Python code in your browser. It provides access to computing resources, including GPUs, suitable for various tasks such as data analysis, machine learning, and running Python scripts. Since Colab is based on Jupyter, it supports many Python libraries and tools.
 
 ### Key features
 
-- Seamless Collaboration: Allowing real-time sharing and working with others, similar to Google Docs.
-- Easy Integration with Google Drive: Enabling you to store and access your notebooks directly from Google Drive.
+- Seamless Collaboration: Enables real-time sharing and collaborative work, similar to Google Docs.
+- Easy Integration with Google Drive: Allows you to store and access your notebooks directly from Google Drive.
+- Compatibility with Python and its Libraries: Colab supports Python and its extensive ecosystem of libraries, making it suitable for a wide range of tasks.
 
 ## Creating your first Colab notebook
 
@@ -161,7 +162,7 @@ You can access the coding materials for this course from Google Drive. To access
 
 1. Open your [Google Drive](https://drive.google.com/drive/home) page (<https://drive.google.com/drive/home>) and ensure that you are signed in with your ualberta.ca account.
 2. On the left panel, select *Shared with me*.
-3. Select the course folder shared with you (e.g., "Lab-OM686").
+3. Select the course folder shared with you (e.g., "Lab-OM423").
 
 ![Alt text](figures/s2.jpeg)
 
