@@ -2,25 +2,42 @@
 
 Table of Contents
 
-- [Google Colab: A Free and Powerful Platform for Python Programming](#google-colab-a-free-and-powerful-platform-for-python-programming)
-  - [Introduction](#introduction)
-    - [Key features](#key-features)
-  - [Creating your first Colab notebook](#creating-your-first-colab-notebook)
-    - [Step 1: Open Google Drive](#step-1-open-google-drive)
-    - [Step 2: Install the Google Colab app](#step-2-install-the-google-colab-app)
-    - [Step 3: Create a new Colab notebook](#step-3-create-a-new-colab-notebook)
-  - [Exploring the Files panel](#exploring-the-files-panel)
-  - [Accessing coding materials from Google Drive](#accessing-coding-materials-from-google-drive)
+* [Introduction](#introduction)
+  * [What is a Jupyter Notebook?](#what-is-a-jupyter-notebook)
+  * [What is Google Colab?](#what-is-google-colab)
+* [Creating your first Colab notebook](#creating-your-first-colab-notebook)
+  * [Step 1: Open Google Drive](#step-1-open-google-drive)
+  * [Step 2: Install the Google Colab app](#step-2-install-the-google-colab-app)
+  * [Step 3: Create a new Colab notebook](#step-3-create-a-new-colab-notebook)
+* [Exploring the Files panel](#exploring-the-files-panel)
+* [Accessing coding materials from Google Drive](#accessing-coding-materials-from-google-drive)
 
 ## Introduction
 
-**Google Colaboratory** (**Colab**) is a free cloud service provided by Google Research that allows you to write and execute Python code in your browser. It provides access to computing resources, including GPUs, suitable for various tasks such as data analysis, machine learning, and running Python scripts. Since Colab is based on Jupyter, it supports many Python libraries and tools.
+### What is a Jupyter Notebook?
 
-### Key features
+A **Jupyter Notebook** is an interactive document that allows you to combine **Python code, explanatory text, equations, and visualizations** in one place.
 
-- Seamless Collaboration: Enables real-time sharing and collaborative work, similar to Google Docs.
-- Easy Integration with Google Drive: Allows you to store and access your notebooks directly from Google Drive.
-- Compatibility with Python and its Libraries: Colab supports Python and its extensive ecosystem of libraries, making it suitable for a wide range of tasks.
+Instead of writing and running an entire Python program at once, a notebook is organized into **cells** that can be executed individually. The two main types of cells are:
+
+* **Code cells:** contain Python code that can be executed.
+* **Markdown cells:** contain formatted text, headings, explanations, links, and equations.
+
+Jupyter notebooks are commonly saved as `.ipynb` files and are widely used for data analysis, scientific computing, education, and machine learning.
+
+### What is Google Colab?
+
+**Google Colaboratory (Colab)** is a hosted Jupyter Notebook service from Google that allows you to write and execute Python code directly in your web browser without installing Python locally. Colab can be used free of charge and provides access to cloud computing resources, including CPUs and, subject to availability and usage limits, GPUs and TPUs. It is particularly useful for data analysis, machine learning, education, and general Python programming.
+
+Since Colab is based on Jupyter, you can combine executable Python code, text, equations, and visualizations within a single notebook.
+
+#### Key features
+
+* **Browser-based Python:** Write and execute Python code without installing or configuring a local Python environment.
+* **Easy sharing and collaboration:** Colab notebooks can be shared with others similarly to Google Docs or Google Sheets.
+* **Google Drive integration:** Notebooks can be stored in and accessed through Google Drive.
+* **Python ecosystem:** Colab supports Python and a wide range of commonly used Python libraries.
+* **Cloud computing resources:** Access CPUs and, when available, GPU and TPU accelerators for computationally intensive tasks.
 
 ## Creating your first Colab notebook
 
